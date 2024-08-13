@@ -31,6 +31,7 @@ public class Main {
 
     private static String extractTextFromPDF(String pdfFilePath) throws IOException, TikaException {
         Tika tika = new Tika();
+        tika.setMaxStringLength(-1);
         return tika.parseToString(new File(pdfFilePath));
     }
 
