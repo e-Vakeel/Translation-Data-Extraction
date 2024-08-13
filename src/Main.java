@@ -36,7 +36,7 @@ public class Main {
     }
 
     private static void processContentAndCreateCSV(String content, String csvFilePath) throws IOException {
-        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9(),]+):([A-Za-z0-9\\s;\\.,]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\];]+)");
+        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9(),]+):([A-Za-z0-9\\s;\\.,()’]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\];]+)");
         Matcher matcher = pattern.matcher(content);
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(csvFilePath))) {
@@ -54,6 +54,12 @@ public class Main {
                 meanings = escapeCSV(meanings);
                 acts = escapeCSV(acts);
                 hindiTranslation = escapeCSV(hindiTranslation);
+
+                if(englishPhrase.isEmpty() || hindiTranslation.isEmpty())
+                {
+                    // Some Regex or parser problem
+                    continue;
+                }
 
                 // Write the CSV line
                 writer.write(String.format("%s,%s,%s,%s\n", englishPhrase, meanings, acts, hindiTranslation));
