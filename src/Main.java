@@ -12,15 +12,20 @@ import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-        String pdfFilePath = "W.pdf";
-        String csvFilePath = "W.csv";
+        String[] files = {"A", "D", "H", "M", "P", "S", "W"};
 
-        try {
-            String pdfContent = extractTextFromPDF(pdfFilePath);
-            processContentAndCreateCSV(pdfContent, csvFilePath);
-            System.out.println("CSV file created successfully!");
-        } catch (IOException | TikaException e) {
-            e.printStackTrace();
+        for (String file : files)
+        {
+            String pdfFilePath = file+".pdf";
+            String csvFilePath = file+".csv";
+
+            try {
+                String pdfContent = extractTextFromPDF(pdfFilePath);
+                processContentAndCreateCSV(pdfContent, csvFilePath);
+                System.out.println("CSV file created successfully!");
+            } catch (IOException | TikaException e) {
+                e.printStackTrace();
+            }
         }
     }
 
@@ -30,7 +35,7 @@ public class Main {
     }
 
     private static void processContentAndCreateCSV(String content, String csvFilePath) throws IOException {
-        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s]+):([A-Za-z0-9\\s;\\.,]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\];]+)");
+        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9(),]+):([A-Za-z0-9\\s;\\.,]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\];]+)");
         Matcher matcher = pattern.matcher(content);
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(csvFilePath))) {
