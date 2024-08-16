@@ -36,7 +36,7 @@ public class Main {
     }
 
     private static void processContentAndCreateCSV(String content, String csvFilePath) throws IOException {
-        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9(),-]+):([A-Za-z0-9\\s;\\.,()’]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\];]+)");
+        Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9(),-]+):([A-Za-z0-9\\s;\\.,()’]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\]]+)");
         Matcher matcher = pattern.matcher(content);
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(csvFilePath))) {
