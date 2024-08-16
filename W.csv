@@ -14,7 +14,7 @@ wages,a compensation or remuneration given to a haired person for his or her ser
 wages analysis book,,,मजदरू� �वश् लेषण बह�
 wages book,,,मजदरू� बह�
 "Wages Inspector, Minimum",,,न् यूनतम मजदरू� �नर��क
-productive,,,अनुत् पादक मजदरू�
+"wages, non-productive",,,अनुत् पादक मजदरू�
 "wages, productive",,,उत् पादक मजदरू�
 wagon,an open railway truck or closed railway van,"s. 4(4), Explosives Act",वैगन
 wagon chaser,,,माल �डब् बा अनुवी�क
@@ -157,8 +157,8 @@ water softening chargeman,,,जल मदृकुरण चाजर्मै�
 water softening inspector,,,जल मदृकुरण �नर��क
 water tower,,"s. 11(2)(g), Delhi Urban Art Commission Act",पानी क� टंक�
 water treatment supervisor,,,जल उपचार पयर्वे�क
-trough,a vessel for watering or feeding animals,"s. 9(d), Prevention of Cruelty to Animals Act, 1960",चरह�
-turbine,,"s. 21(1)(ii), Factories Act",जल टबार्इन
+water-trough,a vessel for watering or feeding animals,"s. 9(d), Prevention of Cruelty to Animals Act, 1960",चरह�
+water-turbine,,"s. 21(1)(ii), Factories Act",जल टबार्इन
 "water, waste",,"s. 2(15), Delhi Municipal Corporation Act",बेकार जल
 water wheel,,"s. 21(1)(ii), Factories Act",जल चक्र
 water works,,"s. 2(xxxix), Cantonments Act",जल सकंमर्
@@ -189,8 +189,8 @@ weaker sections of the people,,"art. 46, Const.",जनता के दबु�
 "weakness, bodily",,,शार��रक दबुर्लता
 wealth escaping assessment,,"s. 17, Wealth-tax Act",�नधार्रण से छूटा धन
 "wealth, national",,,राष् ट्र�य सपं��
-tax,,"heading, Wealth-tax Act",धन कर
-tax Officer,,"s. 2(s), Wealth-tax Act",धन कर अ�धकार�
+wealth-tax,,"heading, Wealth-tax Act",धन कर
+Wealth-tax Officer,,"s. 2(s), Wealth-tax Act",धन कर अ�धकार�
 weaning food,,,छोटे बच् च� का आहार
 weapon,an instrument of any kind used in warfare or combat to attack or defend,"s. 174(1), Cr. P.C.",आयुध
 "weapon, deadly",,"s. 397, I.P.C.",घातक आयुध
@@ -393,7 +393,7 @@ Wireless Telegraphic Operator,,,बेतार पे्रषण प्रच�
 Wireless Traffic Inspector,,,बेतार यातायात �नर��क
 Wireless Traffic Supervisor,,,बेतार यातायात पयर्वे�क
 Wireman,,,वायरमैन
-tapping cases,,,चोर� से फोन आ�द सुनने के मामले
+wire-tapping cases,,,चोर� से फोन आ�द सुनने के मामले
 wisdom,,,प्र�ान
 with a view of,with the object or design of,"s. 2(2), Registration Act",क� दृष् �ट से
 with a view to canalising adequate credit,,"s. 14(1)(c), Bonded Labour System (Abolition) Act",पयार्प् त प्रत् यय क� व् यवस् था करने के उद्देश् य से
@@ -462,7 +462,7 @@ s authority,,"s. 237, Indian Contract Act",अ�भकतार् के प�
 within the territory of,,"art. 12, Const.",के राज् य�ेत्र के भीतर
 without a luggage ticket having been delivered,,"first sch., r. 4(4), Carriage by Air Act",सामान-�टकट �दए �बना
 without affecting the substance,,"s. 28, Bihar and Uttar Pradesh (Alteration of Boundaries) Act",सार पर प्रभाव डाले �बना
-consignment note,,"first sch., r. 9, Carriage by Air Act",�वमान परेषण पत्र �बना
+without an air-consignment note,,"first sch., r. 9, Carriage by Air Act",�वमान परेषण पत्र �बना
 without and beyond India,,"s. 1(2), Child Marriage Restraint Act",भारत से बाहर और परे
 without any criminal intention or knowledge,,"s. 80, I.P.C.",�कसी आपरा�धक आशय या �ान के �बना
 without arms,,"art. 19(1)(b), Const.",�नरायुध
@@ -521,7 +521,7 @@ wood caulker,,,लकड़ी संदबंदगर
 wood cuts,,"s. 2(i), Copyright Act",काष् ठ �चत्रण
 wood engraving teacher,,,काष् ठ त�ण �श�क
 wood polisher,,,लकड़ी पा�लशगर
-sheathed,,,लकड़ी से गढ़ा हुआ
+wood-sheathed,,,लकड़ी से गढ़ा हुआ
 wool,,"s. 2(e), Sick Textile Undertakings (Taking Over of Management) Act",ऊन
 woollen textiles,,"s. 2(a)(iv), Essential Commodities Act",ऊनी वस् त्र
 word,,"s. 2(1)(j), Trade and Merchandise Marks Act",शब् द
@@ -664,7 +664,7 @@ write back,,,प्र�तलेखन
 write down,,,अवलेखन
 write off,to carry or remove,"s. 36(2)(i)(b), Income-tax Act",अप�ल�खत करना
 writer,,"sch., item 2, Assam Rifles Act",लेखक
-residence,,"statute 12(2)(xviii), Mizoram University Act",अन्तःवासी लेखक
+writers-in-residence,,"statute 12(2)(xviii), Mizoram University Act",अन्तःवासी लेखक
 writing,written form,"s. 73, Indian Evidence Act",लेख
 "writing, in",in a written form,"s. 108(1)(i), Cr. P.C.",�ल�खत रूप से
 writing off,,"s. 205(2)(c), Companies Act",अप�ल�खत करना
@@ -691,7 +691,7 @@ written requisition,,"s. 10(1), prov., Faridabad Development Corporation Act",�
 written security,,"sch. I, app. F, form No. 8, (Trade Marks) C.P.C.",�ल�खत प्र�तभू�त
 written statement,the pleading filed by the defendant in a suit stating his grounds of defence,"s. 145(1), Cr. P.C.",�ल�खत कथन
 written statement of defence,,"Or. 8, r. 1, C.P.C.",प्र�तर�ा का �ल�खत कथन
-off,,"sch. I, item 1, Court- fees Act",मुजराई या अ�भवचन करने वाला �ल�खत कथन
+written statement of pleading or set-off,,"sch. I, item 1, Court- fees Act",मुजराई या अ�भवचन करने वाला �ल�खत कथन
 "written up, may cause the accounts to be",,"s. 67(6), Multi- State Co-operative Societies Act","लेखाओं को पूणर् करा सकेगा, लेखाओं को अद्यतन करा सकेगा"
 "written up, to be",,,अद्यतन करना
 wrong,1. a violation; transgression or infringement of law; invasion of right to the damage or prejudice of another or others,"s. 10, Indian Evidence Act",दोष
@@ -738,9 +738,9 @@ wrongfully withheld,,"s. 14(1), prov., Metal Corporation of India (Acquisition o
 wrongly decided,,"art. 132(3), Const.",�व�नश् चय गलत �कया गया
 wrongly rejected,,"s. 18(1)(c), Presidential and Vice- Presidential Elections Act",गलत तौर पर नामंजूर
 wrought up,,"sch., II, (1), Indian Railways Act",बने हुए
-ray assistant,,,एक् सरे सहायक
-ray plant room,,"sch., item 5(ix), Coal Mines Labour Welfare Fund Act",एक् सरे संयतं्र क�
-ray Technician,,,एक् सरे तकनी�शयन
+X-ray assistant,,,एक् सरे सहायक
+X-ray plant room,,"sch., item 5(ix), Coal Mines Labour Welfare Fund Act",एक् सरे संयतं्र क�
+x-ray Technician,,,एक् सरे तकनी�शयन
 xerographist,,,जरैोग्राफकार
 xerography,a method of printing in which a negatively charged ink powder is sprayed upon a positively charged metal plate from which it is transferred to the printing surface by electrostatic attraction,,जरैोग्राफ�
 "X 467 yacht, pleasure",,"s. 48, Indian Ports Acts",क्र�ड़ा-नौका
@@ -751,7 +751,7 @@ yard gunner,,,याडर् गनर
 yard inspector (production department),,,याडर् �नर��क (उत् पादन �वभाग)
 yard inspector (yard shop),,,याडर् �नर��क (याडर् दकुान)
 yard master,,,याडर् मास् टर
-signaller,,,याडर् �रपोटर्र-सह-संकेतक
+yard reporter-cum-signaller,,,याडर् �रपोटर्र-सह-संकेतक
 yard supervisor,,,याडर् पयर्वे�क
 yard transhipment mistry,,,याडर् यानांतरण �मस् त्री
 yarn,,"s. 2(a), Cotton Textiles Cess Act",सतू

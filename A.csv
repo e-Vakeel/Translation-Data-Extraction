@@ -1,5 +1,5 @@
 English Phrase,Meanings,Acts,Hindi Translation
-Hindi a.m.,ante meridian,,पूवार्ह्न
+a.m.,ante meridian,,पूवार्ह्न
 abandon,"to give up; to leave without help; to surrender control or possession, frequently with the knowledge that the thing abandoned is left for the mercy of someone or something else","s. 68(2), T.P. Act",प�रत् याग करना
 abandon any of the objects,,"s. 17(1)(e), Companies Act",उद्देश् य� म� से �कसी को प�रत् यक् त करना
 abandon his application,,"s. 21(2), Trade and Merchandise Marks Act",अपने आवेदन का प�रत् याग करना
@@ -36,7 +36,7 @@ abide by,,"art. 51A(a), Const.",पालन करना
 ability,the quality or state of being able,,योग् यता
 abjure violence,,"art. 51A(i), Const.",�हसंा से दरू रहना
 able,having sufficient power or capacity,,समथर्
-bodied,,,समथा�ग
+able-bodied,,,समथा�ग
 able seaman,,,योग् य ना�वक
 abnormal profit,,"s. 349(4)(d), Companies Act",अप्रसामान् य लाभ
 aboard an unregistered ship,,"s. 2(2), Citizenship Act",�कसी अरिजस् ट्र�कृत पोत के फलक पर
@@ -172,6 +172,7 @@ academic post,,"s. 5(6), University of Hyderabad Act",शै��णक पद
 academic qualifications,,,शै��णक योग् यताएं
 academic session,,"sch., statute 29(2)(b)(i), Aligarh Muslim University Act",शै��णक सत्र
 academic staff,,"s. 27(k), Aligarh Muslim University Act",शै��णक कमर्चा�रवृंद
+"academic staff, non-",,"s. 14(2)(a), Jawaharlal Nehru University Act",अशै��णक कमर्चा�रवृंद
 academic step,,"s. 5(2), North-Eastern Hill University Act",शै��णक कायर्वाह�
 academic work,,"sch., statute 25(1), Aligarh Muslim University Act",शै��णक कायर्
 academic year,,,शै��णक वषर्
@@ -660,7 +661,7 @@ ad infinitum,,,�नरव�ध
 ad interim injunction,,,अंत�रम व् यादेश
 ad interim order,,,अंत�रम आदेश
 ad litem guardian,,"s. 103, T.P. Act",वादाथर् संर�क
-promisor,a surety; one who binds himself to perform the same act as another,,प्र�तभ ू
+ad-promisor,a surety; one who binds himself to perform the same act as another,,प्र�तभ ू
 ad valorem,in proportion to the value,"s. 39(2), Indian Forest Act",मूल् यानुसार
 ad valorem duty,,"s. 20(1), Indian Stamp Act",मूल् यानुसार शुल् क
 adapt,to make suitable; to alter so as to fit for a new use or conditions,"s. 5(2), Goa, Daman and Diu (Extension of Code of Civil Procedure and Arbitration Act) Act",अनुकू�लत करना
@@ -691,7 +692,7 @@ additional,1. existing in addition; added,"art. 115, margin, Const.",अ�त�
 additional Chief Presidency Magistrate,,,अपर मुख् य पे्र�सड�सी मिजस् टे्रट
 additional collection,,,अ�त�रक् त वसूल�
 additional collector,,"s. 2(44)(i), Income-tax Act",अपर कलक् टर
-tax,,"s. 2(16), Income-tax Act",अपर आय-कर आयुक् त
+additional collector of income-tax,,"s. 2(16), Income-tax Act",अपर आय-कर आयुक् त
 additional court fee,,"s. 47(2), C.P.C.",अ�त�रक् त न् यायालय फ�स
 additional Custodian General,,"s. 6(2)(b), Coal Mines (Taking Over of Management) Act",अपर महा अ�भर�क
 additional dearness allowance,,"s. 2(b), Additional Emoluments (Compulsory Deposit) Act",अ�त�रक् त महंगाई भ�ा
@@ -789,7 +790,7 @@ adjudicating authority,,"s. 2(1), Customs Act",न् याय�नणार�
 adjudication,the action of adjudicating,"s. 2(2), C.P.C.",न् याय�नणर्यन
 adjudication as to stamp,,"s. 31, Indian Stamp Act",स् टापं के बारे म� न् याय�नणर्यन
 adjudication of claims,,"long title, Waste Lands (Claims) Act",दाव� का न् याय�नणर्यन
-state rivers or river valleys,,"art. 262, margin. Const.",अंतरराज् �यक न�दय� या नद� घा�टय� के जल सबंंधी �ववाद� का न् याय�नणर्यन
+adjudication of disputes relating to waters of inter-state rivers or river valleys,,"art. 262, margin. Const.",अंतरराज् �यक न�दय� या नद� घा�टय� के जल सबंंधी �ववाद� का न् याय�नणर्यन
 adjudication of penalties,,"s. 15, Stage-Carriages Act",शास् �तय� का न् याय�नणर्यन
 adjudication of the respective rights,,"Or. 34, r. 2(3), C.P.C.",अपने-अपने अ�धकार� का न् याय�नणर्यन
 adjudicator,,,न् याय�नणार्यक
@@ -1053,7 +1054,7 @@ advocacy,,,वकालत
 advocate,1. one who is qualified to plead before the higher courts of law,"s. 2(a), Advocates Act",अ�धवक् ता (एडवोकेट)
 "advocate, associate",,,सहयुक् त अ�धवक् ता
 advocate entitled to practise,,,�व�ध व् यवसाय करने के �लए हकदार अ�धवक् ता
-General,,"s. 92(1), C.P.C.",महा�धवक् ता (एडवोकेट जनरल)
+Advocate-General,,"s. 92(1), C.P.C.",महा�धवक् ता (एडवोकेट जनरल)
 Advocate General for the State,,"art. 165, margin, Const.",राज् य का महा�धवक् ता
 "Advocate, Government",,,सरकार� अ�धवक् ता
 advocate maintained,,,अ�धवक् ता इसी बात पर डटे रहे
@@ -1097,7 +1098,7 @@ affecting,,,प्रभाव डालने वाला
 "affecting life, offence",,"ch. 16, heading, I.P.C.",जीवन के �लए संकटकार� अपराध
 affecting the human body,,,मानव शर�र पर प्रभाव डालने वाला
 affection,kind feeling; tender attachment,,स् नेह
-will,,"s. 104(1), Navy Act",अनुराग या वैमनस् य
+affection or ill-will,,"s. 104(1), Navy Act",अनुराग या वैमनस् य
 affidavit,"a written statement in the name of a person, called the deponent by whom it is voluntarily signed and sworn to or affirmed","s. 3(3), General Clauses Act and s. 3(3), Oaths Act",शपथ-पत्र (ए�फडे�वट)
 "affidavit in answer, filing",,"Or. 11, r. 8, C.P.C.",उ�र म� �दए गए शपथ-पत्र का फाइल �कया जाना
 affidavit of valuation,,"s. 2(1), Estate Duty Act",मूल् यांकन शपथ- पत्र
@@ -1210,7 +1211,7 @@ aggregate income,,,कुल आय
 aggregate of the funds,,"s. 13(4), Income-tax Act",�न�धय� का योग
 aggregate pay,,,कुल वेतन
 aggregate punishment,,"s. 31(2), Cr. P.C.",संक�लत दंड
-matter,,"Or. 2, r. 3(2), C.P.C.",सकं�लत �वषय-वस् तु
+aggregate subject-matter,,"Or. 2, r. 3(2), C.P.C.",सकं�लत �वषय-वस् तु
 aggregate value of the realisation made from the sale,,,�वक्रय से क� गई वसूल� का संक�लत मूल् य
 aggregation of income,,"s. 66, Income-tax Act",आय का सकंलन
 aggregation of property,,"s. 34(1), Estate Duty Act",संप�� का संकलन
@@ -1290,7 +1291,7 @@ agriculture and allied service,,,कृ�ष और सहबद्ध से�
 agriculture holding,,,कृ�ष ध�ृत
 agriculture officer,,,कृ�ष अ�धकार�
 agriculturist,a person making his living by agriculture,"s. 60(1)(b), C.P.C.",कृषक
-climate zone,,"s. 25(i), Haryana and Punjab Agricultural University Act",कृ�ष-जलवायु जोन
+agro-climate zone,,"s. 25(i), Haryana and Punjab Agricultural University Act",कृ�ष-जलवायु जोन
 agro industries,,,कृ�ष उद्योग
 agronomist,,,सस् य-�व�ानी
 agrostologist,,,घास �व�ानी
@@ -1301,11 +1302,11 @@ aid any title,,"s. 14, Indian Trusts Act",�कसी भी हक क� स�
 aid material,,,सहायक सामान
 aid of power,,"s. 80H(2)(iv), Income-tax Act",शक् �त क� सहायता
 "aid, steps in",,,सहायता कदम
-camp (A.D.C.),,,प�रसहाय (ए.डी.सी.)
+aide-de-camp (A.D.C.),,,प�रसहाय (ए.डी.सी.)
 aided school,,"s. 2(d), Delhi School Education Act",सहायता पाने वाला �वद्यालय
 aiding escape,,"s. 166, Navy Act",�नकल भागने म� सहायता देना
 ailment,,"s. 10(e), Drugs and Cosmetics Act",व् या�ध
-climate zone 21 aim,,,ल� य
+agro-climate zone 21 aim,,,ल� य
 Air Adviser,,,हवाई सलाहकार
 air ambulance service,,"s. 18(1)(c), Air Corporations Act",रोगीवाहक वायु सेवा
 air bombardment,,"IIIrd sch., art. 23, Geneva Conventions Act",हवाई बमबार�
@@ -1319,7 +1320,7 @@ airconditioning supervisor,,,वातानुकूलन पयर्वे�
 air consignment note,,"sch. I, r. 12(3), Carriage by Air Act",�वमान परेषण पत्र
 Air Controller,,,एयर कंट्रोलर
 air cooler mechanic,,,एयर कूलर मकेै�नक
-ordinator,,,एयर कोआ�ड र्नेटर
+Air Co-ordinator,,,एयर कोआ�ड र्नेटर
 air corporation,,,वायु �नगम
 aircraft,any machine which can derive support in the atmosphere from reactions of the air other than reaction of the air against the earth,,'
 aircraft examiner,,,वायुयान पर��क
@@ -1331,7 +1332,7 @@ aircraftman,,,एयर क्राफ्टमैन
 aircraft material,,"s. 4(iii), Air Force Act",वायुयान सामग्री
 "aircraft, on board",,"s. 45(a), Arms Act",वायुयान के फलक पर
 aircraft performing the carriage,,"s. 3(1), Carriage by Air Act",वहन करने वाला वायुयान
-crash,,"s. 20(1), National Airports Authority Act",�वमान दघुर्टना
+air-crash,,"s. 20(1), National Airports Authority Act",�वमान दघुर्टना
 air crew,,,एयर कू्र
 air defence Commander,,,हवाई र�ा कमाडंर
 air defence reserve,,"s. 5(2), Reserve and Auxiliary Air Forces Act",वायु र�ा �रजवर्
@@ -1374,7 +1375,7 @@ air signal,,"s. 4(x), Air Force Act",वायु �सग् नल
 air space,1.,"s. 13(3), Factories Act",वायु कोष् ठ
 air staff,,,एयर स् टाफ
 air strip,,"s. 2(b), International Airports Authority Act",�वमान
-tight cartons,,,वायुरोधी काटर्न
+air-tight cartons,,,वायुरोधी काटर्न
 air traffic,,,हवाई यातायात
 air traffic service,,"s. 2(a), National Airports Authority Act",वायु यातायात सेवा
 air transport,,"s. 2(b)(viii), Collection of Statistics Act",वायु प�रवहन
@@ -1420,7 +1421,7 @@ all convenient despatch,,"sch. I, app. D, form No. 3(3), C.P.C.",सु�वध
 all convenient speed,,"Or. 21, r. 38, C.P.C.",सु�वधानुसार पूणर् शीघ्रता
 all due and reasonable diligence,,"Or. 5, r. 17, C.P.C.",पूर� सम् यक् और युक् �तयुक् त तत् परता
 all due diligence,,"s. 12(4), prov., Contempt of Courts Act",सब सम् यक् तत् परता
-inclusive rate,,"s. 4(1)(iii), Minimum Wages Act",सवर्समावेशी दर
+all-inclusive rate,,"s. 4(1)(iii), Minimum Wages Act",सवर्समावेशी दर
 All India Council for Technical Education,,"s.11(e), expln., Institutes of Technology Act",अ�खल भारतीय प्रौद्यो�गक� �श�ा प�रषद्
 All India Cultural Institution,,,अ�खल भारतीय सांस् कृ�तक संस् था
 All India Institute of Hygiene and Public Health,,,अ�खल भारतीय सफाई और लोक स् वास् थ्य ससं् थान
@@ -1430,7 +1431,7 @@ All India Radio,,,आकाशवाणी
 All India Services,,"art. 312, margin, Const.",अ�खल भारतीय सेवाएं
 "All India Services (Compensatory Allowance) Rules, 1954",,,"अ�खल भारतीय सेवा (प्र�तकरात् मक भ�ा) �नयम, 1954"
 "Residuary Matters) Rules, 1960",,,"अ�खल भारतीय सेवा (सेवा क� शत�– अव�शष् ट�य �वषय) �नयम, 1960"
-"Retirement Benefits) Rules, 1958",,,"अ�खल भारतीय सेवा (मतृ् यु तथा सेवा �नव�ृ� प्रसु�वधाएं) �नयम, 1958"
+"All India Services (Death-cum-Retirement Benefits) Rules, 1958",,,"अ�खल भारतीय सेवा (मतृ् यु तथा सेवा �नव�ृ� प्रसु�वधाएं) �नयम, 1958"
 "All India Services (Discipline and Appeal) Rules, 1969",,,"अ�खल भारतीय सेवा (अनुशासन और अपील) �नयम, 1969"
 "All India Services (Leave) Rules, 1955",,,"अ�खल भारतीय सेवा (छुट्ट�) �नयम, 1955"
 "All India Services (Medical Attendance) Rules, 1954",,,"अ�खल भारतीय सेवा (�च�कत् सा प�रचयार्) �नयम, 1954"
@@ -1529,7 +1530,7 @@ allowance in case of volatile goods,,"s. 70, Customs Act",वाष् पशी
 "allowance, marriage",,,�ववाह भ�ा
 "allowance, mileage",,,मील भ�ा
 "allowance, motor car",,,मोटर कार भ�ा
-practising,,,पै्रक् �टसबंद� भ�ा
+"allowance, non-practising",,,पै्रक् �टसबंद� भ�ा
 "allowance, office",,,कायार्लय भ�ा
 "allowance, officiating",,,स् थानापन् न भ�ा
 allowance on account of depreciation,,"s. 73(3), Income-tax Act",अव�यण लेखे मोक
@@ -1685,7 +1686,7 @@ ancillary services,,"s. 2(a), Road Transport Corporations Act",अनुषं�
 and so on,,"form DDDD, Insurance Act",और इसी प्रकार
 anesthesiology,,"1st sch., Indian Medical Council Act",संवेदनाहरण �व�ान
 anew,afresh; as a new action,"s. 19J(3), Inland Vessels Act",नए �सरे से
-Indian Community,,"art. 331, Const.",आंग् ल-भारतीय समाज
+Anglo-Indian Community,,"art. 331, Const.",आंग् ल-भारतीय समाज
 anguish,,,मनस् ताप
 animal,,"s. 47, I.P.C.",जीवजंतु
 animal disease,,,पशु रोग
@@ -1730,7 +1731,7 @@ annual repairs,,,वा�षर्क मरम् मत
 annual return,,"s. 43A(8), Companies Act",वा�षर्क �ववरणी
 annual review,,,वा�षर्क पुन�वर्लोकन
 annual statement of accounts,,"s. 24(1), International Airports Authority Act",लेखाओं का वा�षर्क �ववरण
-taking,,"s. 541(2)(b), Companies Act",वा�षर्क स् टाक पड़ताल
+annual stock-taking,,"s. 541(2)(b), Companies Act",वा�षर्क स् टाक पड़ताल
 annual value,,"s. 2(2), Income-tax Act",वा�षर्क मूल् य
 annually,,,प्र�तवषर्
 annuitant,one who holds or receives an annuity,"s. 80E(2)(e), Income-tax Act",वा�षर्क�दार
@@ -1776,26 +1777,26 @@ antecedents of the offender,,"s. 360(1), Cr. P.C.",अपराधी का प
 antedated,,,पूवर्�दनां�कत
 antedated cheque,,,पूवर्�दनां�कत चकै
 antedating,,"s. 59(1), prov., Trade and Merchandise Marks Act",पूवर्�दनांकन
-nuptial negotiations,,"s. 40, Indian Divorce Act",�ववाह-पूवर् व् यस् थापन
+ante-nuptial negotiations,,"s. 40, Indian Divorce Act",�ववाह-पूवर् व् यस् थापन
 anterior to the debt,,"s. 51(b), prov., Presidency-towns Insolvency Act",ऋण से पूवर्
 anthropological importance,,"s. 20(2)(ii), Antiquities and Art Treasures Act",मानव शास् त्र सबंंधी महत् व
 Anthropological Survey of India,,,भारतीय मानव �व�ान सव��ण
 anthropologist,,,मानव �व�ानी
-aircraft,,,वायुयान भेद�
-apartheid,,"title, Anti-Apartheid (United Nations Convention Act",रंगभेद �वरोधी
+anti-aircraft,,,वायुयान भेद�
+anti-apartheid,,"title, Anti-Apartheid (United Nations Convention Act",रंगभेद �वरोधी
 anticipated credit,,,प्रत् या�शत उधार
 anticipated expenditure,,,प्रत् या�शत व् यय
 anticipated revenue,,,प्रत् या�शत राजस् व
 anticipation,1. a prior knowledge,"s. 464, expln. 1, ill. (e), I.P.C.",पूवार्नुमान
 anticipatory bail,,,अ�ग्रम जमानत
 anticipatory pension,,,प्रत् या�शत प�शन
-corruption officer,,,भ्रष् टाचार-�नरोध अ�धकार�
-corruption police inspector,,,भ्रष् टाचार �नरोध पु�लस �नर��क
+anti-corruption officer,,,भ्रष् टाचार-�नरोध अ�धकार�
+anti-corruption police inspector,,,भ्रष् टाचार �नरोध पु�लस �नर��क
 antidumping article,,,प्र�तपाटन वस् तु
 antidumping duty,,,प्र�तपाटन शुल् क
 antigens,,"2nd sch., item 2, Drugs and Cosmetics Act",एं�टजन
-hijacking,,"title, Anti-Hijacking Act",यान हरण �नवारण
-malaria officer,,,मले�रया-�नरोध अ�धकार�
+anti-hijacking,,"title, Anti-Hijacking Act",यान हरण �नवारण
+anti-malaria officer,,,मले�रया-�नरोध अ�धकार�
 antimony,,,एं�टमनी
 antinupital settlement,,"s. 40, Indian Divorce Act",�ववाहपूवर् के व् यवस् थापन
 antiquarian,of or belonging to old times,"s. 45(c), Arms Act",पौरात�नक
@@ -1804,10 +1805,10 @@ antiques,,"sch., pt. I, Salarjung Museum Act",प्राचीन वस् �
 antiquities and art treasures,,"long title, Antiquities and Art Treasures Act",पुरावशेष तथा बहुमलू् य कलाकृ�त
 antiquity,1. a relic or monument of ancient times,,पुरावशेष
 antiquity assistant,,,पुरावस् तु सहायक
-sea erosion,,,समदु्र� कटाव �नवारण
-tank firearms,,,ट�कभेद� अग् न् यायुध
+anti-sea erosion,,,समदु्र� कटाव �नवारण
+anti-tank firearms,,,ट�कभेद� अग् न् यायुध
 antitoxin,,"second sch., Drugs and Cosmetics Act",टाक् �सनरोधी
-waterlogging,,,जल-जमाव �नवारण
+anti-waterlogging,,,जल-जमाव �नवारण
 antler,,"s. 2(31)(b), Wild Life (Protection) Act",�हरण का सींग
 "any hour, at",,"s. 55(1), C.P.C.",�कसी भी समय
 any law in force immediately before the commencement of this Constitution,,"art. 35(b), Const.",कोई �व�ध जो इस सं�वधान के प्रारंभ से ठ�क पहले प्रव�ृ थी
@@ -1864,7 +1865,7 @@ appeal lies,,,अपील होती है
 "appeal, prefer",,,अपील प्रस्तुत करना
 "appeal, present",,,अपील उपस् �थत करना
 "appeal, reference or revision shall be continued and disposed of",,"s. 297(2)(c), Income-tax Act","अपील, �नद�श या पुनर��ण जार� रखे जाएंगे और �नपटाए जाएंगे"
-parte,,"Or. 41, r. 17(2), C.P.C.",अपील एकप�ीय सुनी जाएगी
+appeal shall be heard ex-parte,,"Or. 41, r. 17(2), C.P.C.",अपील एकप�ीय सुनी जाएगी
 appeal shall lie,,"art. 132(1), Const.",अपील होगी
 appeal to national symbol,,,राष् ट्र�य प्रतीक क� दहुाई
 appeal to the court of sessions,,,सेशन न् यायालय म� अपील करना
@@ -1895,13 +1896,13 @@ appel or pourvoi en cassation,,"sch. 2, art. 1(d), Arbitration (Protocol and Con
 appellant,one who makes an appeal,"Or. 41, r. 10(1), C.P.C.",अपीलाथ� (अपीलाटं)
 appellant submitted to that finding,,,अपीलाथ� ने उस �नष् कषर् को मान �लया
 appellate,pertaining to appeal; taking cognizance of appeals,"s. 108, C.P.C.",अपील�
-tax,,"s. 2(3), Income-tax Act",सहायक आय-कर आयुक् त (अपील)
+Appellate Assistant Commissioner of Income-tax,,"s. 2(3), Income-tax Act",सहायक आय-कर आयुक् त (अपील)
 appellate authority,,"s. 2(a), Industrial Employment (Standing Orders) Act",अपील प्रा�धकार�
 appellate board,,"s. 2(a), Foreign Exchange Regulation Act",अपील बोडर्
 Appellate Collector of Customs,,"s. 3(b), Customs Act",सीमाशुल् क अपील कलक् टर
 Appellate Controller of Estate Duty,,"s. 2(1A), Estate Duty Act",संपदा-शुल् क अपील �नयंत्रक
 appellate court,,"s. 107(1), C.P.C.",अपील न् यायालय
-house,"a place, hall or chamber where an appellate court functions","Or. 41, r. 14(1), C.P.C.",अपील न् याय- सदन
+appellate court-house,"a place, hall or chamber where an appellate court functions","Or. 41, r. 14(1), C.P.C.",अपील न् याय- सदन
 appellate court of inferior jurisdiction,,,अवर अ�धका�रता वाला अपील न् यायालय
 appellate criminal jurisdiction,,"s. 186(b), Cr. P.C.",अपील� दां�डक अ�धका�रता
 appellate decision,,,अपील� �व�नश् चय
@@ -1915,7 +1916,7 @@ appellate or revisional court,,"Or. 32, r. 3(5) and s. 18(2), C.P.C.",अपी�
 appellate or revisional jurisdiction,,"s. 11, prov., Provincial Insolvency Act",अपील�य या पुनर��ण अ�धका�रता
 appellate powers,,,अपील� शक् �तया ं
 appellate tribunal,,"ss. 2(4) and 252, Income-tax Act",अपील अ�धकरण
-tax,,,आय-कर अपील अ�धकरण
+"Appellate Tribunal, Income-tax",,,आय-कर अपील अ�धकरण
 appellation,,,अ�भधान
 appellee,accused,,अ�भयुक् त
 appellor,"accusor in criminal cases. He should be a private subject demanding punishment on account of the particular injury suffered, rather than for the offence against the public. Now obsolete Motely",,&
@@ -2027,7 +2028,7 @@ apprenticeship adviser,,"s. 2(b), Apprentices Act",�श�ुता सला�
 apprenticeship council,,"s. 2(c), Apprentices Act",�श�ुता प�रषद्
 apprenticeship deed,,"sch. I, item 9, Indian Stamp Act",�श�ुता- �वलेख
 approach,,"s. 5(1)(a), Indian Dock Labourers Act and s. 3(2), Indian Railways Act",पहंुच मागर्
-operative,,,सहयोगी भावना से संसगर्
+"approach, co-operative",,,सहयोगी भावना से संसगर्
 approbation,approving; formal or authoritative approval,"app. D, form No. 17, para 11, C.P.C.",अनुमोदन
 approbation of marriage,,"s. 128, ill. (vi), Indian Succession Act",�ववाह का अनुमोदन करना
 appropriate,"1. to assign for a special purpose; to prescribe a particular use for particular moneys, or for the payment of a particular demand","s. 58(d), T.P. Act",�व�नयोिजत करना
@@ -2340,7 +2341,7 @@ as the case may be,,"art. 101(3), prov., Const.",यथास् �थ�त
 as to,,,के बारे म�
 as to afford reasonable probability,,"Or. 25, r. 1(2), C.P.C.",िजनसे यह युक् �तयुक् त अ�ध संभाव् यता है
 as to compensation,,,प्र�तकर के बारे म�
-cutting,,"sch. I, item (11), Cost and Works Accountants Act",(वैसा करना) दसूर� के मकुाबले म� अपे�ाकृत कम वेतन पर काम करना है
+as to constitute under-cutting,,"sch. I, item (11), Cost and Works Accountants Act",(वैसा करना) दसूर� के मकुाबले म� अपे�ाकृत कम वेतन पर काम करना है
 as to delivery,,,प�रदान �वषयक
 as to the amount of such sum,,,ऐसी रकम के �वषय म�
 asbestos cement sheets industry,,,एस् बेस् टास सीम�ट चादर उद्योग
@@ -2431,7 +2432,7 @@ assets of the company passing on the death,,"s. 19, expln., Estate Duty Act",म
 assign,1. to make over or set over to another,"art. 76(2), Const.",स�पना
 assign good cause,,"Or. 9, r. 7, C.P.C.",अच् छा हेतुक �दखलाना
 assign interest,,"s. 6(i), T.P. Act",�हत का समनुदेशन करना
-debts,,"s. 60A (1), T.P. Act",बंधक ऋण समनुदे�शत करना
+assign the mortgage-debts,,"s. 60A (1), T.P. Act",बंधक ऋण समनुदे�शत करना
 assignable by will,,"s. 80E(3)(d), Income-tax Act",�वल द्वारा समनुदेशनीय
 assignability,,"s. 37, Trade and Merchandise Marks Act",समनुदेशनीयता
 assigned area,,,�नयत �ेत्र
@@ -2508,7 +2509,7 @@ Assistant Commercial Officer (Reservation),,,सहायक वा�णज् 
 Assistant Commercial Officer (Tickets),,,सहायक वा�णज् य अ�धकार� (�टकट)
 Assistant Commercial Publicity Officer,,,सहायक वा�णज् य प्रचार अ�धकार�
 Assistant Commercial Superintendent,,,सहायक वा�णज् य अधी�क
-tax,,"s. 116(d), Income-tax Act",सहायक आय-कर आयुक् त
+Assistant Commissioner of Income-tax,,"s. 116(d), Income-tax Act",सहायक आय-कर आयुक् त
 Assistant Complaints Inspector,,,सहायक �शकायत �नर��क
 Assistant Controller of Estate Duty,,"s. 2(5), Estate Duty Act",सहायक सपंदा-शलु् क �नयंत्रक
 Assistant Controller of Stores,,,सहायक भंडार �नयंत्रक
@@ -2547,15 +2548,15 @@ Assistant Foreman (Plant),,,सहायक फोरमैन (संयंत�
 Assistant Godown Manager,,,सहायक गोदाम प्रबंधक
 Assistant Goods Clerk (Travelling),,,सहायक माल �ल�पक (यात्रा)
 Assistant Government Currency Notekeeper,,,सहायक सरकार� कर�सी नोट र�क
-A Lecturer,,,सहायक गे्रड-ए प्राध् यापक
-B Lecturer,,,सहायक गे्रड-बी प्राध् यापक
+Assistant Grade-A Lecturer,,,सहायक गे्रड-ए प्राध् यापक
+Assistant Commercial Officer (Claims) 39 Assistant Permanent Way Inspector Assistant Grade-B Lecturer,,,सहायक गे्रड-बी प्राध् यापक
 Assistant Gunner,,,सहायक गनर
 Assistant Headmaster,,,सहायक मखु् याध् यापक
 Assistant Head Signaller,,,सहायक प्रधान �सगनलर
 Assistant Hospital Steward,,,सहायक �च�कत् सालय स् टूवडर्
 Assistant Hospital Storekeeper,,,सहायक �च�कत् सालय भंडार�
 Assistant Hostel Warden,,,सहायक छात्रावासपाल
-charge,,,प्रभार� सहायक
+Assistant-In-charge,,,प्रभार� सहायक
 "Assistant, Indent",,,मागंपत्र सहायक
 Assistant Instructor,,,सहायक �श�क
 Assistant Janitor,,,सहायक द्वारर�क
@@ -2579,7 +2580,7 @@ Assistant Monotype Caster,,,सहायक मोनोटाइप ढला�
 Assistant Movement Inspector,,,सहायक संचलन �नर��क
 Assistant Operating Superintendent,,,सहायक प�रचालन अधी�क
 Assistant Operator,,,सहायक प्रचालक
-station),,,सहायक प्रचालक (उप स् टेशन)
+Assistant Operator (Sub-station),,,सहायक प्रचालक (उप स् टेशन)
 Assistant Paymaster,,,सहायक वेतनपाल
 Assistant Permanent Way Inspector,,,सहायक रेलपथ �नर��क
 Assistant Personnel Inspector,,,सहायक का�मर्क �नर��क
@@ -2612,16 +2613,16 @@ Assistant Silviculturist,,,सहायक वन संवधर्नी
 Assistant Steward,,,सहायक स् टूवडर्
 Assistant Storekeeper,,,सहायक भडंार�
 Assistant Storeman,,,सहायक भंडारकम�
-head,,,सहायक नायब प्रधान
-Inspector,,,सहायक नायब �नर��क
-Postmaster,,,सहायक नायब डाकपाल
+Assistant sub-head,,,सहायक नायब प्रधान
+Assistant Sub-Inspector,,,सहायक नायब �नर��क
+Assistant Sub-Postmaster,,,सहायक नायब डाकपाल
 Assistant Superintendent of Archaeology,,,सहायक पुरातत् व अधी�क
 Assistant Superintendent of Police,,,सहायक पु�लस अधी�क
 Assistant Personnel Inspector 40 associated operation Assistant Superintendent (Power),,,सहायक अधी�क (�बजल�)
 Assistant Supervisor (Mechanical),,,सहायक पयर्वे�क (या�ंत्रक)
 Assistant Supply Officer,,,सहायक पू�त र् अ�धकार�
 Assistant Surgeon,,,सहायक शल् य�च�कत् सक
-patient Department),,,सहायक सजर्न (ब�हरंग रोगी �वभाग)
+Assistant Surgeon (Out-patient Department),,,सहायक सजर्न (ब�हरंग रोगी �वभाग)
 ) Assistant Surveyor,,,सहायक सव��क
 Assistant Telecommunication Inspector,,,सहायक दरूसंचार �नर��क
 Assistant Telegraph Inspector,,,सहायक तार �नर��क
@@ -2836,10 +2837,10 @@ auctioneer,one who conducts sale by auction,"s. 194, ill. (a), Indian Contract A
 auctioneering agreement,,,नीलामी करारनामा
 s commission,,,नीलामकतार् कमीशन
 audience is limited,,,दशर्क समहू सी�मत है
-video electronic means,,"s. 164(1), prov., Cr. P.C.",श्रव्य- दृश् य इलैक्ट्रा�नक साधन
-visual aids,,,दृश् य-श्रव् य सहाय्य तंत्र
-visual education,,,दृश् य- श्रव् य �श�ा
-visual publicity,,,दृश् य-श्रव् य प्रचार
+audio-video electronic means,,"s. 164(1), prov., Cr. P.C.",श्रव्य- दृश् य इलैक्ट्रा�नक साधन
+audio-visual aids,,,दृश् य-श्रव् य सहाय्य तंत्र
+audio-visual education,,,दृश् य- श्रव् य �श�ा
+audio-visual publicity,,,दृश् य-श्रव् य प्रचार
 audit,an official examination of accounts with verification by reference to witnesses and vouchers,"s. 5, Dakshina Bharat Hindi Prachar Sabha Act and art. 110(1)(f), Const.",लेखापर��ा
 "audit, administrative",,,प्रशासक�य सपंर��ा
 audit against propriety,,,औ�चत् य संपर��ा
@@ -2858,7 +2859,7 @@ audit comments,,,संपर��ा आलोचनाएं
 audit department,,,लेखा पर��ा �वभाग
 "audit, detailed",,,ब् यौरेवार सपंर��ा
 "audit, efficiency",,,द�ता सपंर��ा
-propriety,,,द�ता-सह-औ�चत् य संपर��ा
+"audit, efficiency-cum-propriety",,,द�ता-सह-औ�चत् य संपर��ा
 audit fee,,,लेखा पर��ा/ सपंर��ा फ�स
 "audit, final (or completed)",,,अं�तम (या पूणर्) लेखा पर��ा/ सपंर��ा
 "audit, first",,,प्रथम लेखा पर��ा/ सपंर��ा
@@ -2890,7 +2891,7 @@ audited and admitted,,,संपर���त और स् वीकृत
 auditing,,,सपंर��ण
 auditor,one who audits or whose business is to audit,,सपंर��क (आ�डटर)
 "auditor, senior",,,ज् येष् ठ लेखापर��क/ संपर��क
-General,,,महालेखापर��क
+Auditor-General,,,महालेखापर��क
 auditoria,,"s. 5(iv), Maritime University Act",सभा भवन
 auditorial function,,,लेखापर��ा/सपंर��ा कायर्
 s civil liability,,,सपंर��क/ लेखापर��क का �स�वल दा�यत् व
@@ -2994,7 +2995,7 @@ average net weight,,"s. 5(1), Cotton Ginning and Pressing Factories Act",औस�
 average of the results,,"s. 75(3), Trade and Merchandise Marks Act",प�रणाम� का औसत
 average pay,,"s. 2(aaa), Industrial Disputes Act",औसत वेतन
 average rate of exchange,,,�व�नमय क� औसत दर
-tax,,"s. 2(10), Income-tax Act",आय-कर क� औसत दर
+average rate of income-tax,,"s. 2(10), Income-tax Act",आय-कर क� औसत दर
 average rate of tax,,,कर क� औसत दर
 average unless general,,"sch., para 13, Marine Insurance Act",साधारण नह� ंतो आं�शक हा�न
 averment,the action of averring; that which is averred,"Or. 6, r. 6, C.P.C.",प्रकथन
@@ -3014,8 +3015,8 @@ avoidable extra expenditure,,,प�रहायर् अ�त�रक् त
 avoidance of double taxation,,"s. 295(2)(h), Income-tax Act",दोहरे कराधान का प�रवजर्न
 avoidance of double taxation of income,,"s. 90(b), Income-tax Act",आय के दोहरे कराधान का प�रवजर्न
 avoidance of doubt,,"s. 55, Representation of the People Act, 1951",शकंा का प�रवजर्न
-tax,,"s. 94(3)(a), Income-tax Act",आय-कर का प�रवजर्न
-tax was exceptional,,"s. 94(3)(b), Income- tax Act",आय कर का प�रवजर्न असाधारण था
+avoidance of income-tax,,"s. 94(3)(a), Income-tax Act",आय-कर का प�रवजर्न
+avoidance of income-tax was exceptional,,"s. 94(3)(b), Income- tax Act",आय कर का प�रवजर्न असाधारण था
 avoidance of liability of taxation,,"s. 93(3)(a), Income-tax Act",कराधान के दा�यत् व का प�रवजर्न
 avoidance of loss,,"long title, Public Accountants Default Act",हा�न से बचाव
 "avoided, amount",,,रकम जो बचा ल� गई
@@ -3043,7 +3044,7 @@ background note,,,पषृ् ठभू�म -�टप् पण
 backward classes,,"art. 164(1), prov., Const.",�पछड़ ेवगर्
 Backward Classes Commission,,,�पछड़े वग� का आयोग
 backward tribes,,,�पछड़ी जनजा�तया ं
-up copy,,"s. 52(1)(aa)(ii), Copyright Act",पू�त र्कर प्र�त
+back-up copy,,"s. 52(1)(aa)(ii), Copyright Act",पू�त र्कर प्र�त
 bacteriologist,,,जीवाणु�व�
 bacteriology,,"1st sch., Indian Medical Council Act",जीवाण ु �व�ान
 bad and doubtful debts,,"s. 33(2), Food Corporations Act and s. 22(2), Industrial Development Bank of India Act",डूबंत और शंकास् पद ऋण
@@ -3134,7 +3135,7 @@ bank bill,,,ब�क �बल
 bank charge,,,ब�क प्रभार
 bank column,,,ब�क स् तंभ
 "bank, commercial",,,वा�णज् �यक ब�क
-operative,,,सहकार� ब�क
+"bank, co-operative",,,सहकार� ब�क
 bank deposit rate,,"s. 7(1), Additional Emoluments (Compulsory Deposit) Act",ब�क �न�ेप दर
 bank discount,,,ब�क बट्टा
 bank draft,,,ब�क ड्राफ्ट
@@ -3195,7 +3196,7 @@ Barco Machine Operator,,,बारको मशीन प्रचालक
 bare denial,,,कोरा प्रत् याख् यान
 bare trusteeship of treasurer,,"s. 8(1), Charitable Endowments Act",कोषपाल का केवल न् यासी होना
 bareboat charter,,"s. 115V(a), Income-tax Act",अनाव�ृ नौका चाटर्र
-demise,,"s. 115V(b), Income-tax Act",अनाव�ृ नौका चाटर्र सह पट्टांतरण
+bareboat charter-cum-demise,,"s. 115V(b), Income-tax Act",अनाव�ृ नौका चाटर्र सह पट्टांतरण
 bargain,an agreement between two parties settling the part of each in a transaction between them; that which is acquired by bargain,"s. 165, ill. (a), I.P.C.",सौदा
 bargaining price,,"s. 36A(2), expln., MRTP Act",�रयायती क�मत
 barge,a kind of boat,"s. 59, Navy Act",बाजर्
@@ -3323,7 +3324,7 @@ being sunk,,"s. 2(1)(j)(ii), Mines Act and s. 2(b)(ii), Coal Mines Provident Fun
 belief,"a conviction of the truth of a proposition, existing subjectively in mind; the mental action, condition, or habit of trusting to or confiding in a person or thing or statement","preamble, Const.",�वश् वास
 believe,to give credence to; to have confidence or faith in,,�वश् वास करना
 believing in good faith,,,सद्भावपूवर्क �वश् वास करते हुए
-hop,,,सूचक
+bell-hop,,,सूचक
 belligerent rights,rights pertaining to war or to those engaged in war as recognised by the Jaw of nations,,युद्धमान-अ�धकार
 belong to the force,,"s. 29(1), Army Act",बल का अंग होना
 belong to the service,,,सेवा का अंग होना
@@ -3471,7 +3472,7 @@ bill counter,,,�बल काउंटर
 "bill, documentary",,,प्रलेखी �बल
 "bill, duplicate of a",,,�बल क� प्र�त�ल�प
 "bill, foreign",,,�वदेशी �बल
-head,"a form used for business accounts, with name and address of seller on the top","s. 595(d)(i), Companies Act",�बल शीषर्क
+bill-head,"a form used for business accounts, with name and address of seller on the top","s. 595(d)(i), Companies Act",�बल शीषर्क
 "bill, honour a",,,��ल का आदरण करना
 "bill, honoured",,,आदृत �बल
 "bill, inland",,,अंतरदेशीय ��ल
@@ -3691,7 +3692,7 @@ book binder,,,िजल् दसाज
 "book, bought",,,क्रय बह�
 book debts,,"s. 125(7), Companies Act",बह� ऋण
 "book, invoice",,,बीजक बह�
-keeper,one who keeps the accounts of a business or public office,"s. 160, ill., Indian Evidence Act",लेखाकार
+book-keeper,one who keeps the accounts of a business or public office,"s. 160, ill., Indian Evidence Act",लेखाकार
 "book keeping, principles of double entry",,,दोहर� प्र�वष् �ट वाला बह� खाता रखने क� प्रणाल�
 "book, main",,,मुख् य बह�
 "book, memorandum",1. a book containing an informal record of something that one wishes to remember or preserve for future use,,याद्दाश् त पुस् तक
@@ -3723,7 +3724,7 @@ books of account,,"s. 4(1), Metal Corporation of India (Acquistion of Undertakin
 books of accounts and other books and papers,,"s. 209A(4), Companies Act",लेखा ब�हया ंऔर अन् य ब�हया ंऔर कागजपत्र
 books or documents of reference,"encyclopaedia, dictionaries and other authoritative treatises on different subjects and important and authentic documents of which the court may take judicial notice and to which it may refer without the same being formally proved","s. 57(13), Indian Evidence Act",�नद�श पुस् तक� या दस् तावेज�
 books to be open to inspection,,"s. 73,, Indian Stamp Act",पुस् तक� �नर��ण के �लए खुल� रह�गी
-man,,,बूम मैन
+boom-man,,,बूम मैन
 boot maker,,,मोची
 booth,,"s. 282, Cantonments Act",बूथ
 booth capturing,,"ss. 58A and 135A, Representation of the People Act, 1951",बूथ का बलात ्ग्रहण
@@ -3918,7 +3919,7 @@ build,to construct,"s. 73, ill.(1), Indian Contract Act",�नमार्ण �
 build up,something produced by building up,,�नमार्ण
 builder,one who builds,,�नमार्णकतार्
 building,that which is built,,�नमार्ण
-laws,,"s. 2(1)(a), National Capital Territory of Delhi Laws (Special Provisions) Act",भवन �नमार्ण संबंधी उप�व �धया ं
+building bye-laws,,"s. 2(1)(a), National Capital Territory of Delhi Laws (Special Provisions) Act",भवन �नमार्ण संबंधी उप�व �धया ं
 building clerk,,,�नमार्ण �ल�पक
 building division,,,�नमार्ण प्रभाग
 building fund,,"IIIrd sch., item 2(iii), Banking Regulation Act",भवन �न�ध
@@ -3964,10 +3965,10 @@ burial place,a place for the burial of the dead,,कब्रस् थान
 burn,,"s. 304B(i), I.P.C.",दाह
 burning and burial ground,,"s. 99(2)(d), Cantonments Act",श् मशान और क�ब्र स् तान
 bursary,a college scholarship,,वजीफा
-laws 59 business of dealing in securities burser,,,बसर्र
+building bye-laws 59 business of dealing in securities burser,,,बसर्र
 burthen of vessel,,"s. 4, Coasting Vessels Act",जलयान का टन भार
 bus driver,,,बस चालक
-shelter,,,बस पंक् �त आश्रय
+bus-queue-shelter,,,बस पंक् �त आश्रय
 bus station or shelter,,"s. 48(3)(xix), Motor Vehicles Act",बस अड्डा या आश्रय
 business,1. trade; commercial transaction or engagements; com mercial enterprise as a going concern,"art. 19(1)(g), Const.",कारबार
 business affairs,,"s. 39(2)(f), Presidency-towns Insolvency Act",कारबार� �क्रयाकलाप
@@ -4016,7 +4017,7 @@ buy back,,"s. 94(1), Income-tax Act",क्रय द्वारा वाप�
 buy in,"to buy back for the owner, e.g., at an auction when the bids are too low","s. 38, Indian Trusts Act",अंत:क्रय करना
 buyer,one who buys,"s. 2(1), Sale of Goods Act",के्रता
 "buyer, cash",,,नकद के्रता
-resident,,,अ�नवासी के्रता
+"buyer, non-resident",,,अ�नवासी के्रता
 buyer of goods,,"s. 38(1), Sale of Goods Act",माल का के्रता
 "buyer, resident",,,�नवासी के्रता
 s option,,,के्रता का �वकल् प
@@ -4036,7 +4037,7 @@ by authority of law,,"art. 300A, Const.",�व�ध के प्रा�ध�
 by beat of drum,,,ड�डी �पटवा कर
 by count,,,गणना द्वारा
 by duly authorised agent,,"s. 42, Registration Act",सम् यक् रूप से प्रा�धकृत अ�भकतार् द्वारा
-election,,"s. 147, Representation of the People Act, 1951",उप-�नवार्चन
+bye-election,,"s. 147, Representation of the People Act, 1951",उप-�नवार्चन
 "by endorsement, transferable",,,पषृ् ठांकन से अंतरणीय
 by error in writing,,"s. 49(a), Indian Stamp Act",�लखने क� गलती से
 by escheat or lapse or as bona vacantia,,"art. 296, Const.",राजगामी या व् यपगत या स् वामी�वह�न होने से
@@ -4049,7 +4050,7 @@ by land,,,भूमागर् द्वारा
 by law,,,�व�ध द्वारा
 "by law, capable",,,�व�ध अनुसार समथर्
 by law established,,,�व�ध द्वारा स् था�पत
-laws,,,उप�व�धया ं
+by-laws,,,उप�व�धया ं
 by majority of the total number of members,,"art. 108(4), Const.",सदस् य� क� कुल संख् या के बहुमत द्वारा
 by means of,,,के द्वारा
 by metes and bounds,,,माप और सीमाकंन करके
@@ -4203,7 +4204,7 @@ cameraman,,,कैमरामैन
 camp,,"s. 3(2)(a)(ii), Indian Electricity Act",�श�वर
 camp commandant,,,क� प कमाडं�ट
 camp commander,,"IIIrd sch., art. 96, Geneva Conventions Act",क� प कमांडर
-follower,,"sch., item (3), Fort William Act",�श�वर अनुचार�
+camp-follower,,"sch., item (3), Fort William Act",�श�वर अनुचार�
 camp officer,,,�श�वर अ�धकार�
 campaign officer,,,�वशषे प्रचार अ�धकार�
 camper,,,�श�वरक
@@ -4316,7 +4317,7 @@ capital stock,,"s. 20(bb), Indian Trusts Act",पंूजी स् टाक
 capital structure,1. the composition of the capital (of a company),"s. 32(ix)(g)(i), Payment of Bonus Act",पंूजी क� संरचना
 capital structure earning prospects,,"s. 3(2A)(b), Insurance A c t ",��� �� �� संघटन उपाजर्न संभावनाएं
 capital sum,1.,"s. 57(a)(1), T.P. Act",मूलधन
-"t a x A c t a n d a r t . 2 7 5 ( 1 ) , f i r s capital, subscribed",,"s. 148(1), Companies Act",प्र�तश्रुत पंूजी
+"s. 35A(4), I n c o m e - t a x A c t a n d a r t . 2 7 5 ( 1 ) , f i r s capital, subscribed",,"s. 148(1), Companies Act",प्र�तश्रुत पंूजी
 "c a p i t a l , t r a d i n g",,,व् ◌् या ◌ा पा ◌ा �र ि◌ क
 "c a p i t a l , u n c a l l e d",,,अ न मां ◌ा ◌ं गी ◌ी
 "c a p i t a l , u n p a i d",,,अ सं ◌ं द � ◌् त ���
@@ -4367,7 +4368,7 @@ cardinal principle,,,मुख् य �सद्धांत
 carding,the process in which fibres (as cotton etc.) are manipulated into silver form prior to spinning,"sch. I, item 25(d), Employees",'
 carding machine,,"sch. I, item 8(1), Industries (Development and Regulation) Act",धुनन यंत्र
 cardiology,,"1st sch., Indian Medical Council Act",हृदय रोग �व�ान
-thoracio and vascular surgery,,"1st sch., Indian Medical Council Act","हृदय, व� और वा�हका शल् य �व�ान"
+cardio-thoracio and vascular surgery,,"1st sch., Indian Medical Council Act","हृदय, व� और वा�हका शल् य �व�ान"
 care and caution,,"s. 80, I.P.C.",सतकर् ता और सावधानी
 care and custody of the goods,,"s. 44, Sale of Goods Act",माल क� देख-रेख और अ�भर�ा
 care and pains,,"s. 22(1), Guardians and Wards Act",सतकर् ता और प�रश्रम
@@ -4404,7 +4405,7 @@ carriage of mail and postal packages,,"2nd sch., item 2(2), Carriage by Air Act"
 carriage of records,,,अ�भलेख� का वहन
 carriage outward,,,जावक वहन व् यय
 carriage performed in extraordinary circumstances,,"2nd sch., item 35, Carriage by Air Act",असाधारण प�रस् �थ�तय� म� �कए गए वहन
-opening,,"rule 121(3), Red Tariff No. 19",�सर पर खुलने वाले �डब् बे
+"carriages, end-opening",,"rule 121(3), Red Tariff No. 19",�सर पर खुलने वाले �डब् बे
 carried down,,,अधोनीत शेष
 carried forward,,"s. 33(3)(b), Income-tax Act",अग्रनीत �कया गया
 carrier,"one who carries; one employed or engaged in the business of carrying goods for hire by land, water or air","preamble, Indian Carriage of Goods by Sea Act",वाहक
@@ -4445,7 +4446,7 @@ carrying out the provisions,,"s. 15(1), Chartered Accountants Act",उपबं�
 carrying rejection communication,,"s. 28(5), Foreign Exchange Regulation Act",नामंजूर� संसू�चत करने क� संसूचना
 cart,,"s. 4(4), Explosives Act",छकड़ा
 cartal,,"s. 2(c), Competition Act",व्यापार संघ
-man,,"sch., item 2, Assam Rifles Act",गाड़ी हांकने वाला
+cart-man,,"sch., item 2, Assam Rifles Act",गाड़ी हांकने वाला
 cartographer,,,मान�चत्रकार
 cartoonist,one who draws cartoons,"s. 2(f), Working Journalists and Other Newspaper Employees",’ (
 cartridge,,"s. 4(1)(b), Explosives Act",कारतूस
@@ -4509,7 +4510,7 @@ caster,,,ढलाईकार
 casting vote,the vote given by the Chairman or President of a deliberative assembly in case of equality of votes,"s. 132(4), Army Act and art. 100(1), Const.",�नणार्यक मत
 castings and forgings,,"sch. I, item 1-A(3), Industries (Development and Regulation) Act",ढाल कर और पीट कर बनाई गई वस् तुएं
 casual,1. subject to or produced as a result of chance,,आकस् �मक
-recurring nature,,"s. 10(3), Income-tax Act",आकस् �मक और अनावत� प्रकृ�त
+casual and non-recurring nature,,"s. 10(3), Income-tax Act",आकस् �मक और अनावत� प्रकृ�त
 casual artist,,,नै�म��क कलाकार
 casual election,,"s. 2(vi), Cantonments Act",आकस् �मक �नवार्चन
 casual labour,,,नै�म��क मजदरू
@@ -4645,14 +4646,14 @@ Central Bureau of Investigation,,,क� द्र�य जांच ब् य
 "Central Civil Services (Safeguarding of National Security) Rules, 1953",,,"क� द्र�य �स�वल सेवा (राष् ट्र�य सुर�ा का अ�भर�ण) �नयम, 1953"
 "Central Civil Services (Temporary Services) Rules, 1965",,,"क� द्र�य �स�वल सेवा (अस् थायी सेवा) �नयम, 1965"
 Central Claims Organisation,,,क� द्र�य दावा सगंठन
-Standards,,"s. 4(3)(xiii), Insecticides Act",क� द्र�य खाद्य मानक स�म�त
-operative Bank,,"s. 2(dd), Deposit Insurance and Credit Guarantee Corporation Act",क� द्र�य सहकार� ब�क
+Central Committee for Food-Standards,,"s. 4(3)(xiii), Insecticides Act",क� द्र�य खाद्य मानक स�म�त
+Central Co-operative Bank,,"s. 2(dd), Deposit Insurance and Credit Guarantee Corporation Act",क� द्र�य सहकार� ब�क
 Central Detective Training School,,,क� द्र�य गुप् तचर प्र�श�ण स् कूल
 Central Drug Laboratory,,"s. 5(2)(iii), Drugs and Cosmetics Act",क� द्र�य ओष�ध प्रयोगशाला
 Central Drugs Research Institute,,"s. 5(2)(viii), Drugs and Cosmetics Act",क� द्र�य ओष�ध अनुसधंान संस् थान
 Central Electricity Authority,,,क� द्र�य �वद्युत प्रा�धकार�/प्रा�धकरण
 Central Electricity Board,,,क� द्र�य �वद्युत बोडर्
-Chemical Research Institute,,,क� द्र�य �वद्युत- रसायन अनुसंधान ससं् थान
+Central Electro-Chemical Research Institute,,,क� द्र�य �वद्युत- रसायन अनुसंधान ससं् थान
 Central Electronic Engineering Research Institute,,,क� द्र�य इलैक् ट्रा�नक इंजी�नयर� अनुसंधान ससं् थान
 censure motion 69 Central Public Works Department Central Emergency Relief Training Institute,,,क� द्र�य आपात सहायता प्र�श�ण संस् थान
 Central Excise,,,क� द्र�य उत् पाद-शुल् क
@@ -4727,7 +4728,7 @@ centralisation,to draw to or concentrate at the centre,,क� द्र�य�
 centralised arrangement,,,क� द्र�यकृत प्रबंध
 centre,,"s. 5(12), North-Eastern Hill University Act",क� द्र
 "Centre, Maternity and Child Welfare",,,प्रसू�त और �शशु कल् याण क� द्र
-resident student,,,अ�नवासी छात्र क� द्र
+"centre, non-resident student",,,अ�नवासी छात्र क� द्र
 centre of study,,"s. 2(g), North-Eastern Hill University Act",अध् ययन क� द्र
 "Centre, Primary Health",,,प्राथ�मक स् वास् थ् य क� द्र
 ceramic expert,,,म�ृ�का-�शल् प �वशषे�
@@ -4778,7 +4779,7 @@ certificate of insurance,,"sch., pt. I, s. 9, Commercial Documents Evidence Act"
 certificate of issues,,,�नगर्म प्रमाणपत्र
 certificate of leave,,,छुट्ट� प्रमाणपत्र
 certificate of naturalisation,,"s. 6(1), Citizenship Act",देशीयकरण
-satisfaction of decree,,"app. E, No. 3, C.P.C.",�डक्र� क� तुष् �ट न होने का प्रमाणपत्र
+certificate of non-satisfaction of decree,,"app. E, No. 3, C.P.C.",�डक्र� क� तुष् �ट न होने का प्रमाणपत्र
 certificate of origin,,"s. 4, Commercial Documents Evidence Act",मूल स् थान प्रमाणपत्र
 certificate of posting,,"s. 53(2), Companies Act",डाक म� डाले जाने का प्रमाणपत्र
 certificate of practice,1.,"s. 15(e), Chartered Accountants Act",व् यवसाय प्रमाणपत्र
@@ -4850,12 +4851,12 @@ chamber of commerce,,"s. 4, Commercial Documents Evidence Act",वा�णज�
 Chamber of Provincial Legislature,,"long title, Damodar Valley Corporation Act",प्रांतीय �वधान-मंडल का सदन
 champerty,assistance to any person in action or suit upon condition to have paid of the things (be it lands or goods) when recovered. It is an unlawful act. It is that form of maintenance in which the intermeddler renders assistance by bargaining for a share of the profits of litigation,,जयांश-क्रय
 chance,a possibility or probability as distinct from a certainty,,संभावना
-apparent,,"s. 6(a), T.P. Act",प्रत् य� वा�रस क� संभावना
+chance of an heir-apparent,,"s. 6(a), T.P. Act",प्रत् य� वा�रस क� संभावना
 chance of succeeding to an estate,,"s. 6(a), T.P. Act",सपंदा का उ�रा�धकार� होने क� संभावना
 chance witness,a person who witnesses a crime by sheer chance,,संयोगी सा�ी
 Chancellor,,"s. 2(c), Aligarh Muslim University Act",कुला�धप�त
-pro,,,प्र�त कुला�धप�त
-vice,,,प्र�तकुलप�त
+Chancellor-pro,,,प्र�त कुला�धप�त
+Chancellor-pro-vice,,,प्र�तकुलप�त
 "Chancellor, Vice",,,कुलप�त
 Chancery court,,,चांसर� न् यायालय
 change,1. the fact of changing,"ss. 2(c) and 17(a), I.P.C.",तब् द�ल�
@@ -4908,9 +4909,9 @@ charge holder,a person who holds a charge of another,,'
 "charge, imperfect",,,अपूणर् आरोप
 charge in the alternative,,"s. 91, Navy Act",अनुकल् पत: आरोप लगाना
 charge of like nature,,"s. 44A, expln. 2, C.P.C.",समान प्रकृ�त का प्रभार
-tax,,"s. 4(1), Income-tax Act",आय-कर का प्रभार
+charge of income-tax,,"s. 4(1), Income-tax Act",आय-कर का प्रभार
 charge of tax,,"s. 4, Companies (Profits) Surtax Act",कर का प्रभारण
-tax,,"s. 3, Wealth-tax Act",धन-कर का प्रभारण
+charge of wealth-tax,,"s. 3, Wealth-tax Act",धन-कर का प्रभारण
 "charge, relinquishment of",,,कायर्भार त् याग
 charge report,,,कायर्भार �रपोटर्
 charge shall be preferred,,"art. 61(1), Const.",आरोप लगाया जाएगा
@@ -4925,7 +4926,7 @@ chargeable expenses,,,प्रभायर् खचर्
 chargeable interest,,"s. 2(1)(a), Interest-tax Act",प्रभायर् ब् याज
 chargeable postage,,"s. 143, C.P.C.",प्रभायर् डाक महसूल
 chargeable profit,,"s. 2(1), Companies (Profits) Surtax Act",प्रभायर् लाभ
-tax,1.,"s. 93(1)(a), Income-tax Act",आय- कर के �लए प्रभायर्
+chargeable to income-tax,1.,"s. 93(1)(a), Income-tax Act",आय- कर के �लए प्रभायर्
 chargeable with stamp duty,,"s. 51, Land Acquisition Act",स् टाम् प शुल् क प्रभायर्
 chargeability of instrument with duty,,"s. 32(2), Indian Stamp Act",�लखत पर प्रभायर् होने वाला शुल् क
 charged appropriation,,,प्रभा�रत �व�नयोजन
@@ -4987,7 +4988,7 @@ checker,,,जांच पड़ताल करने वाला
 checking guard,,,पड़ताल गाडर्
 checking of voters,,"s. 169(2)(b), Representation of the People Act, 1951",मतदाताओं क� जांच पड़ताल करना
 checking officer,,,पड़ताल अ�धकार�
-weight,,,चीज वेट
+chees-weight,,,चीज वेट
 chemical,,"s. 2(e), Industrial Finance Corporation Act",रासाय�नक
 chemical abstract,,"pt. vi, items 6(a), 16(b)(i) and 19(b)(ii), Chemical Weapons Convention Act",रासाय�न क सत् व
 chemical and metallurgical assistant,,,रसायन और धातुकमर् सहायक
@@ -5047,6 +5048,7 @@ Chief Engineer,,,मुख् य इंजी�नयर
 "Chief Engineer, Water Supply",,,"मुख् य इंजी�नयर, जल प्रदाय"
 Chief Enquiry and Reservation Supervisor,,,मुख् य पूछताछ और आर�ण पयर्वे�क
 Chief Estimator,,,मुख् य प्राक् कलक
+"Chief, examination-in-",,"s. 137, Indian Evidence Act",मुख् य पर��ा
 Chief Excise Authority,,,मुख् य उत् पाद-शुल् क प्रा�धकार�
 Chief Executive,,"s. 7, Coconut Development Board Act",मुख् य अ�धशासक
 Chief Executive Administration,,,मुख् य कायर्पालक प्रशासन
@@ -5276,7 +5278,7 @@ civil war,,"s. 149(2)(a)(iii), Motor Vehicles Act",गहृ युद्ध
 civil works,,"s. 3(2), General Clauses Act",�स�वल संकमर्
 civil wrong,,"s. 3(2), General Clauses Act",�स�वल दोष
 civilian passage officer,,,�स�वल यात्रा अ�धकार�
-interpretation Officer,,,�स�व�लयन फोटो �नवर्चन आ�फसर
+Civilian Photo-interpretation Officer,,,�स�व�लयन फोटो �नवर्चन आ�फसर
 "Civilians in Defence, Service",,"s. 13B, Industrial Employment (Standing Orders) Act",र�ा सेवा म� के �स�व�लयन
 "Civilians in Defence Services (Classification, Control and Appeal) Rules",,"s. 9A, prov. (b), Industrial Disputes Act",र�ा सेवा म� के �स�व�लयन (वग�करण �नयंत्रण और अपील) �नयम
 civilization and culture,,"s. 5(2A), Aligarh Muslim University Act",सभ् यता और संस् कृ�त
@@ -5422,7 +5424,7 @@ Clothing Factory Foreman,,,वस् त्र कारखाना फोर�
 Clothing Officer,,,वस् त्र अ�धकार�
 Clothing Store Inspector,,,वस् त्र भंडार �नर��क
 club,,"s. 38(b), Companies Act",क् लब
-Chairman),,,सह
+co (as in co-Chairman),,,सह
 Coaching Inspector,,,को�चगं �नर��क
 coaching traffic,,"r. 2(m), Red Traff No. 19",को�चगं यातायात
 coagulated,curdled; clotted,,स् कं�दत
@@ -5445,10 +5447,10 @@ coca derivative,,,कोका के व् युत् पाद
 coca leaf,,,कोका क� प�ी
 Coconut Development Board,,,ना�रयल �वकास बोडर्
 cocoon,,"s. 2(4)(b)(iii), Indian Forest Act",रेशम का कोया
-creditor,creditors jointly entitled to claim a debt from the debtor,"s. 93, Income-tax Act",सहलेनदार
-curricular,,,पाठ्यक्रम के साथ क�
-curricular activity,,"s. 4(1)(f), Delhi School Education Act",पाठ्यक्रमेतर ग�त�व�ध
-defendent,,,सह-प्र�तवाद�
+co-creditor,creditors jointly entitled to claim a debt from the debtor,"s. 93, Income-tax Act",सहलेनदार
+co- curricular,,,पाठ्यक्रम के साथ क�
+co-curricular activity,,"s. 4(1)(f), Delhi School Education Act",पाठ्यक्रमेतर ग�त�व�ध
+co-defendent,,,सह-प्र�तवाद�
 code,"1. a digest of the laws of a country, or of those relating to any subject","title, I.P.C.",सं�हता
 "code, body of this",,"s. 96, C.P.C.",इस सं�हता का पाठ
 Code of Civil Procedure,,,�स�वल प्र�क्रया सं�हता
@@ -5468,10 +5470,10 @@ codify,to consolidate into a code,"preamble, Hindu Marriage Act",सं�हत
 coding,,,कूटबद्ध करना
 coercion,the application to another of such force either physical or moral as to constrain him to do against his will something he would not otherwise have done,"s. 15, Indian Contract Act",प्रपीड़न
 coercive,,,प्रपीड़क
-executor,,,सह �नष् पादक
-existence,,,सह अस् �तत् व
-extensive,coinciding in limits,"s. 28, Indian Easements Act",सम�वस् तीणर्
-financing,,,सह-�व�पोषण
+co-executor,,,सह �नष् पादक
+co-existence,,,सह अस् �तत् व
+co-extensive,coinciding in limits,"s. 28, Indian Easements Act",सम�वस् तीणर्
+co-financing,,,सह-�व�पोषण
 coffee trade interest,,"s. 4(c)(iii), Coffee Act",काफ� व् यापार �हत
 cogent,,,तकर् पूणर्
 cognate,1. a class of heirs according to Hindu law,"s. 3(1)(c), Hindu Succession Act",बंधु
@@ -5487,7 +5489,7 @@ cogwheels,,"Regulation 38, Indian Dock Labourers Regulations",दांतेद
 cohabit,,,सहवास करना
 cohabitation,"living together as husband and wife, or as if husband and wife; coitus","s. 493, I.P.C.",सहवास
 "cohabitation, cause",,"s. 493, I.P.C.",सहवास का�रत करना
-heir,,,सह वा�रस
+co-heir,,,सह वा�रस
 coherence,,,सगं�त
 cohesion,a sticking together,,संलग् नता
 cohesive,,,संलागी
@@ -5573,7 +5575,7 @@ colliery manager,,,को�लयर� मैनेजर
 collision,the action of colliding; violent encounter of moving body with another,"s. 82A(1), Indian Railways Act",टक् कर
 collision on the high sea,,"s. 19(m), Presidency Small Cause Courts Act",खुले समदु्र पर टक् कर
 collusion,a secret agreement or understanding for a fraudulent or deceitful purpose,"s. 44, Indian Evidence Act and s. 37, ill. (c), I.P.C.",दसु् सं�ध
-operation,,"s. 37(c), ill., I.P.C.",दसु् सं�ध या सहयोग
+collusion or co-operation,,"s. 37(c), ill., I.P.C.",दसु् सं�ध या सहयोग
 collusive,"fraudulent, concerted or devised, characterised by collusion","s. 52, T.P. Act",दसु् सं�धपूणर्
 Colonel,,,कनर्ल
 Colonel in Chief of the Regiment,,,रेिजम�ट का कनर्ल-इन-चीफ
@@ -5605,7 +5607,7 @@ combat enemy,,"s. 33B(iv), Income-tax Act",शत्रु का मकुा�
 Combat Zone,,"3rd sch., art. 23, Geneva Conventions Act",रण�ेत्र
 "Combat Zone, fire of",,"3rd sch., art. 23, Geneva Conventions Act",रण�ेत्र क� गोलाबार�
 combatant,one that engages in combat,"s. 16(a), Army Act",योधक
-medical staff,,,योधक परा-�च�कत् सीय कमर्चा�रवृंद
+"combatised, para-medical staff",,,योधक परा-�च�कत् सीय कमर्चा�रवृंद
 combatised tradesman,,"s. 2(e), National Security Guard Act",योधक कार�गर
 combination,1. the result or product of combining,"s. 2(1)(1), prov., Workmen",'
 "combination, acting in",,,�मलकर काम करते हुए
@@ -5630,7 +5632,7 @@ come into operation,,"s. 12(3), Working Journalists and Other Newspaper Employee
 come into possession or control,,s. 1. Public Accountants Default Act,कब् जे या �नयंत्रण म� आना
 comfort of passenger,,"s. 120(c), Indian Railways Act",यात्री का आराम
 comfortable condition,,"s. 9(2), Motor Transport Workers Act",सुखद दशा
-operation 82 commencement coming of age,,"s. 16(3)(a), Indian Contract Act",प्राप् तवय होना
+collusion or co-operation 82 commencement coming of age,,"s. 16(3)(a), Indian Contract Act",प्राप् तवय होना
 comity of nations,,,अंतरराष् ट्र�य सौजन् य
 command,1. an authoritative order; mandate; injuction,"s. 151, I.P.C.",समादेश
 command area,,,प्रभा�वत �ेत्र
@@ -5641,7 +5643,7 @@ command of sovereign,,,प्रभु समादेश
 Commandant,,,"समादेष् टा, कमाडं�ट"
 "Commandant, State Reserve Constabulary",,,"समादेष् टा, राज् य �रजवर् �सपाह� दल"
 Commander,,"s. 97(15), Navy Act",कमांडर
-chief,,,कमांडर-इन-चीफ
+Commander-in-chief,,,कमांडर-इन-चीफ
 Commanding Officer,1.,"s. 3(v), Army Act",कमान आ�फसर
 commemoration,,,स् मारक
 commence,to begin,"s. 52. expln., T.P. Act",प्रारंभ होना
@@ -5691,7 +5693,7 @@ commission of a foreign State,,"s. 10(6)(ii), income-tax Act",�वदेशी
 commission of an act,,"s. 37(2), Specific Relief Act",कायर् का �कया जाना
 commission of inquiry,,"long title, Commissions of Inquiry Act",जांच आयोग
 commission of murder,,"s. 37(a), I.P.C.",हत् या करना
-cognisable offence,,"s. 2(d), Cr. P.C.",असं�ेय अपराध का �कया जाना
+commission of non-cognisable offence,,"s. 2(d), Cr. P.C.",असं�ेय अपराध का �कया जाना
 commission of offence,1.,"s. 108, expln. 5, I.P.C.",अपराध करना
 commission of sati,,Commission of Sati (Prevention) Act,सती कमर् करना
 Commission on Official Language,,,राजभाषा आयोग
@@ -5712,7 +5714,7 @@ Commissioner for linguistic minorities,,,भाषाई अल् पसंख�
 Commissioner for Scheduled Castes and Scheduled Tribes,,,अनुसू�चत जा�त और अनुसू�चत जनजा�त आयुक् त
 "Commissioner, Oath",,,शपथ आयुक् त
 commissioner of archaeology,,"s. 2(db), Ancient Monuments and Archaelogical Sites and Remains (Amendment and Validation) Act",पुरातत् व आयुक् त
-tax,,"s. 116(c), Income-tax Act",आय- कर आयुक् त
+Commissioner of Income-tax,,"s. 116(c), Income-tax Act",आय- कर आयुक् त
 Commissioner of Payments,,,सदंाय आयुक् त
 Commissioner of Police,,"s. 2(1)(d), Arms Act",पु�लस आयुक् त
 Commissionership,,,क�मश् नर�
@@ -5846,7 +5848,7 @@ commute sentence,,"s. 416, Cr. P.C. and art. 72(1), Const.",दंडादे�
 commuted leave,,,प�रव�तर्त छुट्ट�
 commuted value of annuity,,"s. 2(24)(viii), Income-tax Act",वा�षर्क� का संरा�शत मूल् य
 commuted value of pension,,,प�शन का संरा�शत मूल् य
-mortgagor,joint mortgagor,"s. 92, T.P. Act",सहबंधककतार्
+co-mortgagor,joint mortgagor,"s. 92, T.P. Act",सहबंधककतार्
 compact areas,,"s. 3(a), Two-Member Constituencies (Abolition) Act",संहत �ेत्र
 "compact areas, geographically",,"s. 6, Two-Member Constituencies (Abolitition) Act and s. 9(i)(a), Delimitation Act",भौगो�लक रूप से संहत �ेत्र
 compact disk,,"s. 76, Information Technology Act and s. 20B(2), Small Industries Development Bank of India Act",कम्पैक् ट �डस्क
@@ -6052,7 +6054,7 @@ compulsory winding up,,,अ�नवायर् प�रसमापन
 computation,,"s. 2(37A)(i), Income-tax Act",सगंणना
 computation of additional wages,,"s. 2(c)(vi)(c), expln. 1, Additional Emoluments (Compulsory Deposit) Act",अ�त�रक् त मजदरू� क� संगणना
 computation of advance tax,,"s. 209, Income-tax Act",अ�ग्रम कर क� सगंणना
-fees,,"s. 8, Suits Valuation Act",न् यायालय फ�स क� संगणना
+computation of court-fees,,"s. 8, Suits Valuation Act",न् यायालय फ�स क� संगणना
 computation of demands,,,मांग सगंणना
 computation of net profits,,"sch. VI, pt. II, item 4A, Companies Act",शुद्ध लाभ� क� संगणना
 computation of net wealth,,"s. 4(4), Wealth-tax Act",शदु्ध धन क� संगणना
@@ -6152,7 +6154,7 @@ condition governing,,,शा�सत करने वाल� शतर्
 "condition in life, his",,"Or. 16, r. 12(i), C.P.C.",उसक� सांसा�रक स् �थ�त
 condition of enrolment,,,भत� होने के �लए शतर्
 condition of previous publication,,"s. 28(1), Delhi School Education Act",पूवर् प्रकाशन क� शतर्
-entry,,"s. 65A(e), T.P. Act",पुन: प्रवेश करने क� शतर्
+concurrently 90 condition of re-entry,,"s. 65A(e), T.P. Act",पुन: प्रवेश करने क� शतर्
 condition of the bailment,,,उप�नधान क� शतर्
 condition of the bond,,,बंधपत्र क� शतर्
 "condition of the goods, apparent",,"1st sch., item (j), Carriage by Air Act",माल क� प्रकट दशा
@@ -6313,7 +6315,7 @@ consent in writing,,,�ल�खत सम् म�त
 consent of parties,,,प�कार� क� सम् म�त
 consequence,a thing or circumstance which follows as an effect or result from something preceding,,प�रणाम
 "consequence of, in",,,के प�रणामस् वरूप
-attendance,,,गैरहािजर रहने का प�रणाम
+consequence of non-attendance,,,गैरहािजर रहने का प�रणाम
 consequences of failure,,"s. 201(1), Income-tax Act",असफलता के प�रणाम
 consequential,followng as a consequence,"art. 4(1), Const.",पा�रणा�मक
 consequential losses,,,पा�रणा�मक हा�नया ं
@@ -6434,7 +6436,7 @@ constitutional,,"art. 32A, Const.",सां�वधा�नक
 constitutional provision,,,सां�वधा�नक उपबंध
 constitutional reason,,,सां�वधा�नक कारण
 constitutional remedies,,"main heading, art. 32, Const.",सां�वधा�नक उपचार
-guards,part III of the Constitution sets out the safeguards for certain rights of the subject and secures these rights from invasion by the State itself,,सा�ंवधा�नक संर�ण
+constitutional safe-guards,part III of the Constitution sets out the safeguards for certain rights of the subject and secures these rights from invasion by the State itself,,सा�ंवधा�नक संर�ण
 constitutional system of the Federation,,"art. 11(6), Foreign Awards (Recognition and Enforcement) Act",प�रसंघ क� सां�वधा�नक प्रणाल�
 constitutional validity,,,सां�वधा�नक �व�धमान् यता
 constrain,to force; to compel,,मजबूर करना
@@ -6615,7 +6617,7 @@ contract establishment allowance,,,सं�वदा स् थापन भ�
 contract for annuity,,,वा�षर्क� सं�वदा
 contract for deferred annuity,,"s. 80C(3), Income-tax Act",आस् थ�गत वा�षर्क� सं�वदा
 contract for sale,an agreement to sell,"s. 54, T.P. Act",�वक्रय क� सं�वदा
-insurance,,"s. 2(2)(b), Indian Stamp Act",समुद्र� बीमा के �लए सं�वदा
+contract for sea-insurance,,"s. 2(2)(b), Indian Stamp Act",समुद्र� बीमा के �लए सं�वदा
 contract grant,,,सं�वदा अनुदान
 "contract, implied",,"s. 128(2)(f)(i), C.P.C.",�वव��त सं�वदा
 contract in good faith,,"s. 62(9), Indian Trusts Act",सद्भावपूवर्क सं�वदा करना
@@ -6751,7 +6753,7 @@ conversion cost,,,संप�रवतर्न लागत
 conversion into company,,,कंपनी म� संप�रवतर्न
 conversion of Indian currency into foreign currency,,,भारतीय कर�सी को �वदेशी कर�सी म� संप�रव�त र्त करना
 conversion of indorsement in blank into indorsement in full,,"s. 55, Negotiable Instruments Act",�नरंक पषृ् ठांकन का पूणर् पषृ् ठाकंन म� सपं�रवतर्न
-dramatic work,,"s. 2(i), controversial 98 convict, life Copyright Act",कृ�त का अनाट्य कृ�त म� संप�रवतर्न
+conversion of the work into a non-dramatic work,,"s. 2(i), controversial 98 convict, life Copyright Act",कृ�त का अनाट्य कृ�त म� संप�रवतर्न
 conversion table,,,संप�रवतर्न सारणी
 convert,to divert wrongfully; to appropriate and apply to one’s use; to cause to turn to a religion or belief,,संप�रव�त र्त करना
 "convert, or reconvert to the Hindu religion",,"s. 3(1), expln. (iii), Hindu Minority and Guardianship Act",�हदं ूधमर् म� सपं�रव�त र्त या प्र�तसंप�रव�त र्त (व् यक् �त)
@@ -6791,7 +6793,7 @@ convulsions of nature,,,प्राकृ�तक उथल-पुथल
 cook instructor,,,रसोइया �श�क
 cooperate,to work together,"s. 5(11), Universiry of Hyderabad Act",सहकार करना
 cooperation,,,सहका�रता
-"operation, collaboration or association, manner of",,,"सहकार, सहयोग या सहयोजन क� र��त"
+"co-operation, collaboration or association, manner of",,,"सहकार, सहयोग या सहयोजन क� र��त"
 "Cooperation, Department of",,,सहका�रता �वभाग
 cooperative approach,,,सहकार� दृष् �ट
 cooperative bank,,"s. 2(dd), Deposit Insurance and Credit Guarantee Corporation Act",सहकार� ब�क
@@ -6806,26 +6808,26 @@ cooperative societies inspector,,,सहकार� सोसाइट� ��
 cooperative society,,,सहकार� सोसाइट�
 cooperative strategy,,"preamble, National Dairy Development Board Act",सहकार� योजना
 cooperative technical assistance programme and projects,,"s. 10(8), Income-tax Act",सहकार� तकनीक� सहायता कायर्क्रम और प�रयोजनाएं
-opt,,"s. 23, Jawaharlal Nehru University Act",सहयोिजत करना
-opted members,,,सहयोिजत सदस् य
+co-opt,,"s. 23, Jawaharlal Nehru University Act",सहयोिजत करना
+co-opted members,,,सहयोिजत सदस् य
 coordinate,to combine or integrate harmoniously,"s. 21(1), North- Eastern Hill University Act",समन् वय करना
 coordinated view,,,समन् �वत दृष् �टकोण
 coordinating officer,,,समन् वय अ�धकार�
 Coorg Legislative Council,,"s. 3(46), General Clauses Act",कोडगु
-owner,,"s. 8(c), Indian Easements Act",सहस् वामी
-owner of property,,"s. 2(15), Indian Stamp Act",संप�� का सहस् वामी
-ownership,,"s. 47(b), Indian Easements Act",सह-स् वा�मत् व
+co-owner,,"s. 8(c), Indian Easements Act",सहस् वामी
+co-owner of property,,"s. 2(15), Indian Stamp Act",संप�� का सहस् वामी
+co-ownership,,"s. 47(b), Indian Easements Act",सह-स् वा�मत् व
 coparcenary,joint ownership; joint heirship; of or pertaining to coparceners,"s. 6, Hindu Succession Act",सहदा�यक�
 coparcenary interest,,"s. 7(1), Estate Duty Act",सहदा�यक� �हत
 coparcenary property,,"s. 6, Hindu Succession Act",सहदा�यक� संप��
 coparcener,one who shares (equally) with others in inheritance in the estate of a common ancestor,"s. 6, expln. 1, Hindu Succession Act",सहदा�यक
 coparcener of a Hindu Family,,"s. 2(12)(iii), Estate Duty Act",�हदं ूकुटंुब का सहदा�यक
-partner,"a person, who stands in the relationship of partner with another",,सह-भागीदार
-deed,,"sch. 1, item 23, Indian Stamp Act",सहभागीदार �वलेख
-pilot,,,सह-�वमानचालक
+co-partner,"a person, who stands in the relationship of partner with another",,सह-भागीदार
+co-partnership-deed,,"sch. 1, item 23, Indian Stamp Act",सहभागीदार �वलेख
+co-pilot,,,सह-�वमानचालक
 coping,,"s. 2(b)(iii), Bhopal Gas Leak Disaster (Processing of Claims) Act",�नपटना
-plaintiff,"a person, who has joined with another or others as plaintiff in a suit",,सहवाद�
-proprietor,,"s. 10(1), Land Acquisition Act",सह-स् वत् वधार�
+co-plaintiff,"a person, who has joined with another or others as plaintiff in a suit",,सहवाद�
+co-proprietor,,"s. 10(1), Land Acquisition Act",सह-स् वत् वधार�
 copy,1. an individual example of a manuscript or print,,प्र�त
 "copy, corrected",,,शुद्ध प्र�त
 copyholder,,,कापीहोल् डर
@@ -6850,7 +6852,7 @@ coral,,,मूंगा
 cordoning officer,,,प�रवेष् टन अ�धकार�
 core logs,,"s. 5(2)(a), Offshore Areas Mineral (Development and Regulation) Act",सलेखी कोड
 core maker,,,गुल् ल� �नमार्ता
-respondent,a man or woman charged with adultery and proceeded against along with the wife or husband who is the respondent,,सह-प्रत् यथ�
+co-respondent,a man or woman charged with adultery and proceeded against along with the wife or husband who is the respondent,,सह-प्रत् यथ�
 cornering a market,,,बाजार मटु्ठ� म� करना
 corollary,1. consequence or result,,प�रणाम
 coroner,,,मतृ् युसमी�क
@@ -6886,7 +6888,7 @@ corrective institution,,"s. 2(g)(ii), Immoral Traffic (Prevention) Act",सु�
 correctness and completeness of the return,,"s. 143(2)(b), Income-tax Act",�ववरणी क� शुद्धता और पूणर्ता
 correctness of findings,,"s. 13(f), Consumer Protection Act",�नष् कषर् क� सत् यता
 correctness of methods,,"s. 13(f), Consumer Protection Act",पद्ध�त का सह� होना
-relation of rights and duties,,,अ�धकार� और कतर्व् य� का परस् पर संबंध
+co-relation of rights and duties,,,अ�धकार� और कतर्व् य� का परस् पर संबंध
 correspond,1. to be similar,,समरूप होना
 correspond with the plaint,,,वादपत्र के अनुरूप करना
 correspondence,,,पत्र-व् यवहार
@@ -6927,7 +6929,7 @@ corrupt or illegal means,,"s. 5(1)(d), Prevention of Corruption Act",भ्र�
 corrupt practice,,"s. 2(1)(c), Representation of the People Act, 1951",भ्रष् ट आचरण
 corruption,a departure from what is pure or correct or from the original,"s. 3(c), Departmental Inquiries (Enforcement of Attend- ance of Witnesses and Production of Documents) Act",भ्रष् टाचार
 corruptly or maliciously,,"s. 220, I.P.C.",भ्रष् टतापूवर्क या �वद्वेषपूवर्क
-sharer,one sharing with another,,सह-अंशधार�
+co-sharer,one sharing with another,,सह-अंशधार�
 cosmetic,"a preparation to be applied to human body for the purpose of beautifying, preserving or cleansing",,प्रसाधन सामग्री
 cost,1. the expenses,,खचर्
 Cost Accountant,,"s. 2(1)(b), Cost and Works Accountants Act",लागत लेखापाल
@@ -6994,9 +6996,9 @@ costs of realisation,,"s. 73(1), C.P.C.",आपन के खच�
 costs of the proceedings,,,कायर्वा�हय� के खच�
 "costs, reasonable",,"sch, 1, app. A, form No. 8, C.P.C.",युक् �तयुक् त दाम
 costs shall not follow the event,costs not to be paid in accordance with the result of the suit,,खच� प�रणाम के अनुसार नह�ं �दए जाएंगे
-surety,,,सह-प्र�तभू
-terminous,coincident or co,"-extensive in range, scope, limit, time or duration",सह�वस् तार�
-trustee,a joint trustee,"s. 10, Indian Trusts Act",सह-न् यासी
+co-surety,,,सह-प्र�तभू
+co-terminous,coincident or co,"-extensive in range, scope, limit, time or duration",सह�वस् तार�
+co-trustee,a joint trustee,"s. 10, Indian Trusts Act",सह-न् यासी
 cottage industry,,"s. 80P(2)(a)(ii), Income-tax Act and art. 43, Const.",कुट�र उद्योग
 cotton fabrics,,"s. 14(iia), Central Sales Tax Act",सूती कपड़ े
 cotton ginning,,,कपास ओटना
@@ -7023,11 +7025,11 @@ Councillor,,,पाषर्द्
 counsel,1. a lawyer appointed or engaged to advise and represent in legal matters,"s. 138(2), Army Act",काउंसेल
 counsellor,,,परामशर्द
 counter affidavit,,,प्र�त-शपथपत्र
-balance,,,प्र�तसंतुलन
+counter-balance,,,प्र�तसंतुलन
 counter charge,,,प्रत् यारोप
-claim,"1. a claim set up against the plaintiff in the same suit, being based on a cause of action","s. 128(2)(c), C.P.C.",प्र�तदावे
+counter-claim,"1. a claim set up against the plaintiff in the same suit, being based on a cause of action","s. 128(2)(c), C.P.C.",प्र�तदावे
 counter clerk,,,काउंटर क् लकर्
-magnet area,,"s. 2(c), National Capital Region Planning Board Act",प्रत् याकषर्ण �ेत्र
+counter-magnet area,,"s. 2(c), National Capital Region Planning Board Act",प्रत् याकषर्ण �ेत्र
 counter security,,,दोहर� प्र�तभू�त
 counterfeit,imitated with intent to deceive,"s. 28, I.P.C.",कूटकरण
 counterfeit currency note,,"s. 94(2)(c), Cr. P.C.",कूटकृत कर�सी नोट
@@ -7040,8 +7042,8 @@ counterpart,1. where an instrument of conveyance (as a lease) is executed in par
 counterpart engagement,,,वचनबंध का प्र�तलेख
 counterpart of a lease,,,पट्टे का प्र�तलेख
 counterpart or duplicate,,"s. 6, Indian Stamp Act",प्र�तलेख या द्�वप्र�तक
-statement,,"s. 125(b), Trade and Merchandise Marks Act",प्र�तकथन
-statement of the grounds,,"s. 21(2), Trade and Merchandise Marks Act",आधार� का प्र�तकथन
+counter-statement,,"s. 125(b), Trade and Merchandise Marks Act",प्र�तकथन
+counter-statement of the grounds,,"s. 21(2), Trade and Merchandise Marks Act",आधार� का प्र�तकथन
 countersign,1. a sign in response to another sign,,प्र�तसंकेत
 countersign the authority,,"Or. 28, r. 1, C.P.C.",प्रा�धकार को प्र�तहस् ता��रत करना
 countersignature,the signature put by way of countersigning,,प्र�तहस् ता�र
@@ -7080,9 +7082,9 @@ court,"1. a place where justice is administered, the judge or judges who sit in 
 "court, criminal",,"s. 4(xvii), Air Force Act",दंड न् यायालय (�क्र�मनल कोटर्)
 "court, division",,,खंड न् यायालय
 court executing the decree,,"s. 54, Presidency-towns Insolvency Act",�डक्र� �नष् पादन करने वाला न् यायालय
-fee,a fee received under the Court,"-fees Act on plaints, petitions, etc.",न् यायालय फ�स (कोटर् फ�स)
-fees chargeable,,,प्रभायर् न् यायालय फ�स
-fees in stamps,,,स् टापं� के रूप म� न् यायालय फ�स
+court-fee,a fee received under the Court,"-fees Act on plaints, petitions, etc.",न् यायालय फ�स (कोटर् फ�स)
+court-fees chargeable,,,प्रभायर् न् यायालय फ�स
+court-fees in stamps,,,स् टापं� के रूप म� न् यायालय फ�स
 court for the relief of insolvent debtor,,"s. 121, Presidency-towns Insolvency Act",�दवा�लया ऋणी अनुतोष न् यायालय
 court having admiralty jurisdiction,,"s. 3, Colonial Courts of Admiralty (India) Act",नाव�धकरण �वषयक अ�धका�रता वाला न् यायालय
 "Court, High",,,उच् च न् यायालय
@@ -7302,14 +7304,14 @@ crop season observer,,,फसल मौसम पे्र�क
 crop specialist,,,फसल �वशषे�
 cropping pattern,,,फसल क्रम
 cross,to draw two parallel lines across the face of a cheque often with,,‘&
-arm,,"s. 2(f), Indian Electricity Act",क� ची-भुजा
-claim,a claim made by the defendant against the plaintiff and raised in the defendant’s answer,,प्र�तदावा
-decree,a decree against the holder of another decree and in favour of the judgment debtor in that other decree,,प्र�त�डक्र�
-examination,,"s. 137, Indian Evidence Act",प्र�तपर��ा
-examination of the defendants witnesses,,,प्र�तवाद� के सा��य� क� प्र�तपर��ा
-objection,an objection filed by the respondent in an appeal against the findings in the judgment appealed against,,प्रत् या�ेप
-reference,,,प्र�त �नद�श
-suit,a suit filed by the defendant against the plaintiff in regard to the same transaction,"Or. 8, r. 6(2), C.P.C.",प्रतीपवाद
+cross-arm,,"s. 2(f), Indian Electricity Act",क� ची-भुजा
+cross-claim,a claim made by the defendant against the plaintiff and raised in the defendant’s answer,,प्र�तदावा
+cross-decree,a decree against the holder of another decree and in favour of the judgment debtor in that other decree,,प्र�त�डक्र�
+cross-examination,,"s. 137, Indian Evidence Act",प्र�तपर��ा
+cross-examination of the defendants witnesses,,,प्र�तवाद� के सा��य� क� प्र�तपर��ा
+cross-objection,an objection filed by the respondent in an appeal against the findings in the judgment appealed against,,प्रत् या�ेप
+cross-reference,,,प्र�त �नद�श
+cross-suit,a suit filed by the defendant against the plaintiff in regard to the same transaction,"Or. 8, r. 6(2), C.P.C.",प्रतीपवाद
 crossed bank draft,,"s. 40A(3), Income-tax Act",क्रास ब�क ड्राफ्ट
 crossed cheque,a cheque symbolically crossed so as to be payable to an account only,,क्रास चैक
 crossed cheque drawn on a bank,,"s. 40A(3), Income-tax Act",ब�क पर �लखा क्रास चैक
@@ -7356,9 +7358,9 @@ Cultural Relations Officer,,,सांस् कृ�तक संपकर् 
 cultural scholarships,,,सांस् कृ�तक छात्रव�ृ�या ं
 cultured pearl,a natural pearl grown under controlled conditions,,कल् चर� मोती
 culverts,,"s. 2(e)(ii), Control of National Highways (Land and Traffic) Act",पु�लयाएं
-dividend,,,लाभांश स�हत
+cum-dividend,,,लाभांश स�हत
 cumulative,,,सं�चत
-dividend 107 cumulative dividend,,,संचयी लाभाशं
+cum-dividend 107 cumulative dividend,,,संचयी लाभाशं
 cumulative effect,,,संचयी प्रभाव
 cumulative loss,,,संचयी हा�न
 cumulative preference dividends,,,सं�चत अ�धमानी लाभांश
@@ -7407,6 +7409,7 @@ current session,,,चालू सत्र
 current use,the use which is prevalent at the present time,,चाल ू उपयोग
 current topics,,"s. 52(m), Copyright Act",साम�यक �वषय
 curricular,,,पाठ्यक्रम
+"curricular, co-",,,पाठ्यचयार् के साथ के
 "curricular, extra",,,पाठ्यचयार् से �भन् न
 curriculum,,,पाठ्यक्रम
 "cursory glance, on a",,,सरसर� तौर पर देखने से
@@ -7455,7 +7458,7 @@ customs airport,,"s. 2(c), Produce Cess Act",सीमाशलु् क �व
 customs and manners of the country,,,देश क� रू�ढ़यां और र��तयां
 customs area,,"s. 2(11), Customs Act",सीमाशलु् क �ेत्र
 customs authority,,"sch., pt. 1, item 19, Commercial Documents Evidence Act",सीमाशलु् क प्रा�धकार�
-bond,,,सीमाशुल् क बंध-पत्र
+customs-bond,,,सीमाशुल् क बंध-पत्र
 customs collector,,"s. 3(d), Tea Act",सीमाशुल् क कलक् टर
 customs department,the department which deals with customs,,सीमाशुल् क �वभाग
 customs duty,,"s. 12, Customs Act",सीमाशुल् क
@@ -7487,7 +7490,7 @@ Air Adviser,,,हवाई सलाहकार
 Air Chief Marshal,,,एयर चीफ मार्शल
 Air Commodore,,,एयर कमोडोर
 Air Controller,,,एयर कंट्रोलर
-ordinator,,,एयर कोआर्डिनेटर
+Air Co-ordinator,,,एयर कोआर्डिनेटर
 Air India,,,एयर इंडिया
 Air Marshal,,,एयर मार्शल
 Air Vice Marshall,,,एयर वाइस मार्शल
@@ -7560,7 +7563,7 @@ Assistant Engineer,,,सहायक इंजीनियर
 Assistant Engineer (Bridges),,,सहायक इंजीनियर (पुल)
 Assistant Engineer (Headquarters),,,सहायक इंजीनियर (मुख्‍यालय)
 Assistant Engineer (Planning),,,सहायक इंजीनियर (योजना)
-B Lecturer,,,सहायक ग्रेड-बी प्राध्‍यापक
+Assistant Grade-B Lecturer,,,सहायक ग्रेड-बी प्राध्‍यापक
 Assistant Gunner,,,सहायक गनर
 Assistant Headmaster,,,सहायक मुख्‍याध्‍यापक
 Assistant Works Manager,,,सहायक कर्मशाला प्रबंधक
