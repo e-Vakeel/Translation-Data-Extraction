@@ -37,7 +37,7 @@ dam,,"s. 22(2)(ii), Damodar Valley Corporation Act",बांध
 damage,loss or detriment or injury,"s. 73, Indian Railways Act",नुकसान
 damage caused by distress,,"s. 63, Presidency Small Cause Courts Act",करस् थम ्से का�रत नुकसानी
 damage or deterioration,,"s. 22(2), Customs Act",नुकसान या �य
-s reputation,"the law presumes it from the defamatory tendency of the words. It is no defence for instance that the plaintiff is a person of such an established reputation that to call him liar would do him no harm. Finally it is necessary to note that the plaintiff must prove the actual words or representation complained of. If he complains of a letter, he must be able to prove its contents and other particulars about it",,वाद� क� ख् या�त को ��त
+damage to plaintiff’s reputation,"the law presumes it from the defamatory tendency of the words. It is no defence for instance that the plaintiff is a person of such an established reputation that to call him liar would do him no harm. Finally it is necessary to note that the plaintiff must prove the actual words or representation complained of. If he complains of a letter, he must be able to prove its contents and other particulars about it",,वाद� क� ख् या�त को ��त
 damage unavoidably occasioned,,"s. 5, Shore Nuisances (Bombay and Kolaba) Act",अप�रवजर्नीय रूप से हुआ नुकसान
 damages,the sum claimed or awarded in compensation for loss or injury sustained,"s. 12, Indian Evidence Act",नुकसानी; (नष् टप�रहार)
 "damages, consequential",,,पा�रणा�मक नुकसानी
@@ -151,7 +151,7 @@ Dean of Faculty,,"sch., item 7(1), Aligarh Muslim University Act",संका�
 Dean of Faculty of Arts,,,कला संकायाध् य�
 Dean of Faculty of Science,,,�व�ान संकायाध् य�
 Dean of schools of studies,,,�वद्यापीठ� का संकायाध् य�
-Welfare,,"sch., item 10(1), Aligarh Muslim University Act",छात्र कल् याण संकायाध् य�
+Dean of Students’ Welfare,,"sch., item 10(1), Aligarh Muslim University Act",छात्र कल् याण संकायाध् य�
 dearness allowance,bonus or pay increase to meet a rise in the cost of living,,महंगाई भ�ा
 death,the act or fact of dying; the final cessation of vital functions of an animal or plant,"s. 46, I.P.C.",मतृ् यु
 death anniversary,,,मतृ् यु �दवस ; पुण् य �त�थ
@@ -217,8 +217,8 @@ debt settlement board,,,ऋण-�नपटारा बोडर्
 "debt, unfunded",,,अ�न�धक ऋण
 debtor,one who is indebted to another,"s. 2(1)(a), Provincial Insolvency Act",ऋणी
 debtor is readjudged insolvent,,"s. 103A(1), Presidency-towns Insolvency Act",ऋणी �दवा�लया पुन: न् याय�नण�त �कया जाता है
-s discharge,,"s. 38(5), Provincial Insolvency Act",ऋणी का उन् मोचन
-s estate,,"s. 19(1), Presidency-towns Insolvency Act",ऋणी क� सपंदा
+debtor’s discharge,,"s. 38(5), Provincial Insolvency Act",ऋणी का उन् मोचन
+debtor’s estate,,"s. 19(1), Presidency-towns Insolvency Act",ऋणी क� सपंदा
 debtors for loan,,,उधार के ऋणी ; उधार के देनदार
 debtors ledger,,,ऋणी खाता
 debtors on open account,,,चालू खाते वाले देनदार
@@ -1012,7 +1012,7 @@ detain money,,"s. 219, Indian Contract Act",धनरा�श को प्र�
 detain without warrant,,"s. 437(1), Cr. P.C.",वारंट के �बना �नरुद्ध करना
 detained in custody,,"art. 22(1), Const.",अ�भर�ा म� �नरुद्ध
 detained in prison,,"s. 122(1)(a), Cr. P.C.",कारागार म� �नरुद्ध
-s possession,,"sch., item 91(b), Limitation Act",�नरोध करने वाले का कब् जा
+detainer’s possession,,"sch., item 91(b), Limitation Act",�नरोध करने वाले का कब् जा
 detaining officer,,,�नरोध अ�धकार�
 detect,"to find out; to discover (a person) being or doing something; to discover the presence, existence or fact of something apt to elude notice",,पता चलाना ; पता लगाना
 detection,1. the action of detecting,"s. 330, I.P.C.",पता चलना; पता चलाना
@@ -1330,11 +1330,11 @@ Directorate of Export Promotion,,,�नयार्त प्रोन् न�
 Directorate of Military Lands and Cantonments,,,सै�नक भू�म और छावनी �नदेशालय
 Directorate of Sugar and Vanaspati,,,शकर् रा और वनस् प�त �नदेशालय
 "Directors, board of",,,�नदेशक बोडर्
-debts,,,�नदेशक-ऋण
-s fees,,,�नदेशक फ�स
-meeting,,,�नदेशक बैठक
-s remuneration,,,�नदेशक पा�रश्र�मक
-s report,,,�नदेशक �रपोटर्
+Directors' debts,,,�नदेशक-ऋण
+Director's fees,,,�नदेशक फ�स
+Directors' meeting,,,�नदेशक बैठक
+Director’s remuneration,,,�नदेशक पा�रश्र�मक
+Director’s report,,,�नदेशक �रपोटर्
 directorship,the office of a director,"s. 25(2), Industrial Finance Corporation Act",�नदेशक पद
 directory in nature,,"s. 4, Mulki Rules Act",�नदेशात् मक प्रकृ�त
 dirt or rubbish,,,गंदगी या कूड़ा करकट
@@ -1398,7 +1398,7 @@ discharge of encumbrance,,,�वल् लगंम का उन् मोच�
 discharge of functions of the Governor in certain contingencies,,"art. 160, margin, Const.",कुछ आकस् �मकताओं म� राज् यपाल के कृत् य� का �नवर्हन
 discharge of instrument,,"s. 23A(2), Indian Stamp Act",�लखत का उन् मोचन
 discharge of lethal missiles,,"s. 10(2), Manoeuvres, Field Firing and Artillery Practice Act",घातक प्र�ेपास् त्र फ� कना
-s functions in other contingencies,,"art. 70, margin, Const.",अन् य आकस् �मकताओं म� राष् ट्रप�त के कृत् य� का �नवर्हन
+discharge of President’s functions in other contingencies,,"art. 70, margin, Const.",अन् य आकस् �मकताओं म� राष् ट्रप�त के कृत् य� का �नवर्हन
 discharge of principal debtor,,,मलू ऋणी का उन् मोचन
 "discharge of principal money, in or towards",,"s. 69A(8)(v), T.P. Act",मूलधन के भुगतान म� या उस मद्धे
 discharge of public functions,,,लोक कृत् य� का �नवर्हन
@@ -1913,7 +1913,7 @@ dominant undertaking,,"s. 2(d), Monopolies and Restrictive Trade Practices Act",
 dominate the will,,"s. 16(1), Indian Contract Act",इच् छा को अ�धशा�सत करना
 domination,,"sch., art. II, Anti-Apartheid (United Nations Convention) Act",प्रभुत् व
 dominion,1. a self governing autonomous State within the British Common Wealth,,डो�म�नयन ; 2.
-s,,"s. 3(5), General Clauses Act",�हज मजेस् ट� का अ�ध�ेत्र
+"Dominion, His Majesty’s",,"s. 3(5), General Clauses Act",�हज मजेस् ट� का अ�ध�ेत्र
 dominion legislature,,"long title, Damodar Valley Corporation Act",डो�म�नयन �वधान-मंडल
 Dominion of India,,"s. 80B(1), Income-tax Act, art. 6(b)(ii), art. 106, art. 112(3)(d)(iii) and art. 149, Const.",भारत डो�म�नयन
 dominion over property,,"s. 408, I.P.C.",संप�� पर अख् तयार
@@ -2223,7 +2223,7 @@ easement affecting the land,,"s. 3(b), Land Acquisition Act",भू�म पर
 "easement, continuous",,"s. 5, Indian Easements Act",सतत ् सुखाचार
 "easement, disturbance of",,,सुखाचार म� �वघ् न
 easement of necessity,,"s. 13, Indian Easements Act",आवश् यकता का सुखाचार ; आवश् यकता का सु�वधा�धकार
-easement of support,an easement of support of a building by another,,'
+easement of support,an easement of support of a building by another's land or building may be acquired by grant or prescription. On the latter mode of acquisition the leading authority is Dalten V. Angus,,आलंब का सुखाचार
 easements of necessity and quasi-easement,,"s. 13, Indian Easements Act",आवश् यकता के सखुाचार और सुखाचार के सदृश अ�धकार
 easements restrictive of certain rights,,"s. 7, Indian Easements Act",क�तपय अ�धकार� के �नब�धक सखुाचार
 easily obtainable,,,सुगमता से अ�भप्राप् य ; सुलभ
@@ -2498,10 +2498,10 @@ employed person,,"s. 2(1), Payment of Wages Act",�नयोिजत व् �
 employed to work,,"art. 24, Const.",काम करने के �लए �नयोिजत
 employee,"one who is employed by another, especially by a business concern or government; one employed in a position below the executive level",,कमर्चार�
 Employees and Agents Relations Committee,,"s. 22(3), Life Insurance Corporation Act",कमर्चार� और अ�भकतार् सबंंध स�म�त
-contribution,,"s. 39, Employees",’
+employees’ contribution,,"s. 39, Employees",’
 Employees State Insurance Corporation,,,कमर्चार� राज् य बीमा �नगम
 employer,one who employs,,�नयोजक ; �नयोक् ता
-s contribution,,"s. 39, Employees",’
+employer’s contribution,,"s. 39, Employees",’
 employment,the action of employing; the state of being employed,"s. 2(q), Industrial Disputes Act and art. 16(1), Const.",�नयोजन ; रोजगार
 employment and unemployment,,,�नयोजन तथा अ�नयोजन
 employment exchange,,"s. 2(d), Employment Exchanges (Compulsory Notification of Vacancies) Act",रोजगार कायार्लय ; (एम् पलायम�ट एक् सच�ज) ; �नयोजनालय
@@ -2899,7 +2899,7 @@ estate manager,,,संपदा प्रबंधक
 estate of a deceased person,,"s. 2(d), Arbitration Act",मतृक क� संपदा ; मतृ व् यक् �त क� सपंदा
 estate officer,,,संपदा अ�धकार�
 estate paying revenue to the Government,,"Or. 21, r. 66(2)(b), C.P.C.",सरकार को राजस् व देने वाल� संपदा
-s,,,�वधवा क� सपंदा
+"estate, widow’s",,,�वधवा क� सपंदा
 estimate,"valuation; to fix a notion of quantities, numbers, magnitudes, etc. without active enumeration or measurements","s. 73, expln., Indian Contract Act",प्राक् कलन ; प्राक् कलन करना
 estimate by assessee,,"s. 212(1), Income-tax Act",�नधार्�रती द्वारा प्राक् कलन
 estimate of preliminary expenses,,"s. 165(3)(c), Companies Act",प्रारं�भक व् यय� का प्राक् कलन
@@ -3075,7 +3075,7 @@ excess amount,,"s. 4(3), Unit Trust of India Act",अ�त�रक् त र�
 excess duty,,,अ�धक शलु् क
 excess fare book,,,अ�धक �कराया रिजस् टर
 excess grant,,"art. 115, margin, Const.",अ�धक अनुदान
-s authority,,"s. 228, Indian Contract Act",अ�भकतार् के प्रा�धकार से परे �कया गया कायर् ; अ�भकतार् के प्रा�धकार के बाहर �कया गया कायर्
+excess of agent's authority,,"s. 228, Indian Contract Act",अ�भकतार् के प्रा�धकार से परे �कया गया कायर् ; अ�भकतार् के प्रा�धकार के बाहर �कया गया कायर्
 "excess of his powers, in",,"s. 11(2), Specific Relief Act",अपनी शक् �तय� के बाहर
 excess over allotment,,,आबंटन से अ�धक
 excess over appropriation,,,�व�नयोजन से अ�धक
@@ -3730,8 +3730,8 @@ farm collection,,"sch., pt. 1, Damodar Valley Corporation Act",ठेके प�
 Farm Manager,,,फामर् मैनेजर
 farmer,1. one who undertakes the collection of revenue etc. paying a fixed sum for the proceeds,"s. 6(i), T.P. Act",फामर्र ; 2.
 farmer of an estate,,"s. 6(i), T.P. Act",संपदा का फामर्र
-Co-operative Society,,"s. 5(5)(a)(ii), Rice Milling Industry (Regulation) Act",कृषक� क� सहकार� सोसाइट�
-organisation,,,कृषक सगंठन
+Farmers’ Co-operative Society,,"s. 5(5)(a)(ii), Rice Milling Industry (Regulation) Act",कृषक� क� सहकार� सोसाइट�
+farmers’ organisation,,,कृषक सगंठन
 farming,the practice of agriculture,,कृ�षकमर् ; खेती
 Farming Inspector,,,खेती �नर��क
 farming stock,the stock appertaining to cultivation such as harvested crops etc.,"sch. 1, app. A, form No. 24(4), C.P.C.",कृ�ष-धन
@@ -4210,7 +4210,7 @@ foetal loss,,"s. 4(3)(ii), Pre-Natal Diagnostic Techinques (Regulation and Preve
 foetoscopy,,"s. 2(i), Pre-Natal Diagnostic Techinques (Regulation and Prevention of Misuse) Act",भ्रूण दा�शर्क�
 foetus,fully developed embryo in womb,"s. 4(3), Maternity Benefit Act",भ्रणू :
 fogman,,,कुहा�सया
-s hut,,,कुहा�सया क� गुमट�
+fogman’s hut,,,कुहा�सया क� गुमट�
 fog-signal,,"s. 4(1)(b), Explosives Act",कुहरा सकेंत
 folder,,,फोल् डर
 "folder, binding",,,बंधक फोल् डर
@@ -4406,7 +4406,7 @@ Forest Training Division,,,वन प्र�श�ण खंड
 Forest Utilisation Officer,,,वन उपयोग अ�धकार�
 Forest Village School Master,,,वन ग्राम शाला अध् यापक
 Forester,,,वनपाल
-s school,,,वनपाल �वद्यालय
+forester’s school,,,वनपाल �वद्यालय
 forestry,the science of planting and taking care of forests,,वन �व�ान ; वनोद्योग
 forestry development,,,वन �वकास
 forestry operations,,,वन संबंधी �क्रयाएं
@@ -4542,14 +4542,14 @@ founded on facts,based on facts,"s. 14(2), Presidency-towns Insolvency Act",त�
 founded on the same cause of action,,"s. 10, expln., C.P.C.",उसी वाद हेतुक पर आधा�रत
 founded upon separate and distinct facts,,"Or. 8, r. 7, C.P.C.",पथृक् और सु�भन् न तथ् य� पर आधा�रत
 founder of the institution,,"s. 13(3)(a), Income-tax Act",संस् था का संप्रवतर्क
-shares,,,सपं्रवतर्क शेयर
+founders' shares,,,सपं्रवतर्क शेयर
 founding and casting,,,गलाई और ढलाई
 foundling,an unclaimed infant; a child deserted by unknown parents,"s. 4, ill. (a), Indian Trusts Act",अप�वद्ध ; अप�वद्ध �शश ु
 foundry accounts,,,ढलाई घर लेखे
 foundry expert,,,ढलाई �वशेष�
 four consecutive days,,"art. 101(4), prov., Const.",�नरंतर चार �दन
-notice,,"art. 90(c), prov., Const.",चौदह �दन क� सूचना
-notice in writing,,"art. 61(2)(a), Const.",चौदह �दन क� �ल�खत सूचना
+fourteen days' notice,,"art. 90(c), prov., Const.",चौदह �दन क� सूचना
+fourteen days' notice in writing,,"art. 61(2)(a), Const.",चौदह �दन क� �ल�खत सूचना
 fowl,,"s. 282(37), Cantonmetns Act",कुक् कुट
 fraction,1. any part of a unit,"s. 287(2), Companies Act",�भन् न ; 2.
 fraction of a year,,,वषर् का भाग
@@ -4783,9 +4783,9 @@ fund agreement,,"sch., pt. 1, International Monetary Fund and Bank Act",�न�
 "fund, the Indian civil services family pension",,,भारतीय �स�वल सेवा कुटंुब प�शन �न�ध
 "fund, the Indian civil services provident",,,भारतीय �स�वल सेवा भ�वष् य �न�ध
 "fund, the Indian civil services (N.E.M.) provident",,,भारतीय �स�वल सेवा (गैर-यूरोपीय सदस् य) भ�वष् य �न�ध
-s provident,,,भारतीय नौसेना डाकयाडर् कमर्कार भ�वष् य �न�ध
+"fund, the Indian Naval Dock Yard Workmen’s provident",,,भारतीय नौसेना डाकयाडर् कमर्कार भ�वष् य �न�ध
 "fund, the Indian Ordnance Department Provident",,,भारतीय आडर्न�स �वभाग भ�वष् य �न�ध
-s provident,,,भारतीय आडर्न�स कारखाना कमर्कार भ�वष् य �न�ध
+"fund, the Indian Ordnance factories workmen’s provident",,,भारतीय आडर्न�स कारखाना कमर्कार भ�वष् य �न�ध
 "fund, the Military Engineering Services provident",,,भारतीय इंजी�नयर� सेवा भ�वष् य �न�ध
 fundamental,,"art. 37, Const.",मूलभूत ;
 fundamental and supplementary rules,,,मूल और अनुपूरक �नयम
@@ -5217,7 +5217,7 @@ Governor,the executive head of each constituent State of the Union of India,"s. 
 Governor-General,,"art. 392(3), Const.",गवनर्र जनरल
 Governor-General in Council,,,सप�रषद् गवनर्र जनरल
 Governors of States,,"art. 153, margin, Const.",राज् य� के राज् यपाल
-s province,,"art. 294(a), Const.",राज् यपाल वाले प्रांत
+Governor’s province,,"art. 294(a), Const.",राज् यपाल वाले प्रांत
 "grace, days of",,"s. 22, Negotiable Instruments Act",अनुग्रह �दवस
 Governor-General 185 gran gradation list,,,पदक्रम सूची
 gradation list clerk,,,पदक्रम सूची �ल�पक
@@ -5236,7 +5236,7 @@ grading and marking,,"long title, Agricultural Produce (Grading and Marking) Act
 Grading Inspector,,,शे्रणीकरण �नर��क
 grading of tobacco,,"s. 8(2)(b), Tobacco Board Act",तंबाकू का शे्रणीकरण
 graduate,1. to obtain a degree from a university or college,"s. 7, North-Eastern Hill University Act",उपा�ध प्राप् त करना ; 2.
-s constituency,,"s. 9(3)(b), Legislative Councils Act",स् नातक �नवार्चन-�ेत्र
+) graduate’s constituency,,"s. 9(3)(b), Legislative Councils Act",स् नातक �नवार्चन-�ेत्र
 grain,corn,,अनाज
 Grain Inspector,,,खाद्यान् न �नर��क
 Grain Shop Inspector,,,खाद्यान् न दकुान प्रबंधक
