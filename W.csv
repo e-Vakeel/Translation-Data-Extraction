@@ -15,7 +15,7 @@ wages book,,,मजदूरी बही
 "Wages Inspector, Minimum",,,मजदूरी बोर्ड
 "wages, non-productive",,,मजदूरी बोर्ड
 "wages, productive",,,मजदूरी बोर्ड
-wagon,an open railway truck or closed railway van,"s. 4(4), Explosives Act",७
+wagon,an open railway truck or closed railway van,"s. 4(4), Explosives Act",(७
 wagon chaser,,,माल डिब्बा अनुवीक्षक
 wagon chasing inspector,,,माल डिब्बा अनुवीक्षण निरीक्षक
 wagon checker,,,डिब्बा पड़तालकर्ता
@@ -72,7 +72,7 @@ war time surplus,,,युद्धकालीन अधिशेष
 war victims,,,युद्ध पीड़ित
 ward,"1. a person, who by reason of minority, lunacy or other incapacity is under the protection or control of a guardian","s. 4(3), Guardians and Wards Act",०
 Ward Keeper,,,वार्ड रक्षक
-Ward Keeper (Catering),,,वार्ड रक्षक
+Ward Keeper (Catering),,,वार्ड रक्षक (खानपान)
 Ward Master,,,वाडर् मास् टर
 Warden,,,वाडर्न
 "Warden, Fisheries",,,मजदूरी बोर्ड
@@ -191,7 +191,7 @@ weaning food,,,छोटे बच्चों का आहार
 weapon,an instrument of any kind used in warfare or combat to attack or defend,"s. 174(1), Cr. P.C.",आयुध ;
 "weapon, deadly",,"s. 397, I.P.C.",घातक आयुध
 weapon of offence,,"s. 148, I.P.C.",आक्रामक आयुध
-wear and tear,wearing or damaging due to ordinary usage; deterioration in the condition of a thing through constant use or service,"s. 108(m), T.P. Act",घिसाई
+wear and tear,wearing or damaging due to ordinary usage; deterioration in the condition of a thing through constant use or service,"s. 108(m), T.P. Act",घिसाई (तेईमानम)
 wearing and carrying of kirpans,,"art. 25, expln. I, Const.",कृपाण धारण करना और लेकर चलना
 wearing apparel,articles of clothing collectively,"s. 51(1), Cr. P.C.",पहनने के वस् त्र ;
 weather,"the condition of the atmosphere (at a given place and time) with respect to heat or cold; presence or absence of rain, etc.","s. 174(3), Cr. P.C.",मौसम
@@ -260,7 +260,7 @@ whether the company is in operation,,"s. 560(1), Companies Act",कंपनी 
 which are shown in this book,,"s. 35D, expln. (a)(i), Income-tax Act",८४ जो इस बही में दिखाई गई है
 which had the force of law,,"s. 3(29), General Clauses Act",जो विधि का बल रखती थी
 which is engaged or is taking steps for engaging itself in any industry,,"s. 40(1)(aa), Land Acquisition Act",मजदूरी बोर्ड
-which is longer,,"s. 7(1), Pharmacy Act",जो
+which is longer,,"s. 7(1), Pharmacy Act",जो (अवधि) अधिक लंबी हो
 which must happen,,"s. 19, T.P. Act",जो अवश् यंभावी है
 while acting in breach of regulations,,"s. 51B, Employees",’
 while in transit,,"s. 35B(1)(b)(iii), Income-tax Act",अभिवहन के दौरान
@@ -301,7 +301,7 @@ wholly,as a whole; in its entirety; in full; completely,"s. 2(f), Plantations La
 wholly and exclusively,,"s. 27(3), Estate Duty Act",पूणर्त: और अनन् यत:
 wholly or in part,,"s. 17(1), T.P. Act",पूणर्त: या भागत:
 wholly or mainly dependent,,"s. 80F(1), Income-tax Act",पूर्णतः या मुख्यतः
-wholly void or useless,,"Or. 13, r. 9(1)(b), prov., C.P.C.",कर
+wholly void or useless,,"Or. 13, r. 9(1)(b), prov., C.P.C.",कर, ९
 wide fluctuations,,"s. 8(2)(b), Tobacco Board Act",व् यापक उतार- चढाव
 widow,a woman whose husband is dead and who has not married again,"s. 38, ill., T.P. Act",विधवा
 widow or widower of the individual,,"s. 80E(3)(a), Income-tax Act",व्यर्षटे की विधवा या विधुर
@@ -321,7 +321,7 @@ wilful abstention,,"s. 3, T.P. Act",जानबूझकर प्रविर�
 wilful act,,"s. 209(5), Companies Act",जानबूझकर किया गया कार्य
 wilful concealment of a material fact,,"s. 107, expln. I.P.C.",तात्विक तथ्य जानबूझकर छिपाना
 wilful contempt,,,जानबूझकर किया गया अवमान
-wilful default,,"Or. 40, r. 4(c), C.P.C.",०
+wilful default,,"Or. 40, r. 4(c), C.P.C.",(०,
 wilful default or gross negligence,,"Or. 40, r. 3(d), C.P.C.",जानबूझकर किया गया व्यतिक्रम या घोर उपेक्षा
 wilful defiance of authority,,"s. 41(1), Army Act",प्राधिकारी का जानबूझकर किया गया तिरस्कार
 wilful disobedience,,"s. 6(c), Dramatic Performances Act",जानबूझकर
@@ -379,7 +379,7 @@ wireless licence inspector,,,बेतार लाइसेंस निरी�
 wireless mechanic,,,बेतार मैकेनिक
 wireless officer,,,बेतार अधिकारी
 wireless operator,,,बेतार प्रचालक
-wireless operator incharge,,,प्रचालक प्रभारी
+wireless operator incharge,,,प्रचालक प्रभारी,
 wireless planning and coordination wing,,,बेतार योजना और समन् वय स् कंध
 wireless signal clerk,,,बेतार सिगनल लिपिक
 wireless supervisor,,,बेतार पर्यवेक्षक
@@ -448,9 +448,9 @@ withhold price,,"s. 581A(n), Companies Act",निर्धारित की�
 withhold refund,,"s. 241, Income-tax Act",को रोक रखना
 with or without conditions 462 without being muzzled withholding of increment,,"sch., item 5(4), Aligarh Muslim University Act",मजदूरी बोर्ड
 within or without,,"Or. 30, r. 3(b), C.P.C.",भीतर या बाहर
-within such further period as the President may allow,,"art. 3, prov., Const.",दा
-within such period as may be specified,,"art. 3, prov., Const.",कक
-within the limits of its economic capacity,,"art. 41, Const.",दा
+within such further period as the President may allow,,"art. 3, prov., Const.",(दा
+within such period as may be specified,,"art. 3, prov., Const.",(कक,
+within the limits of its economic capacity,,"art. 41, Const.",(दा,
 within the meaning of,,"s. 6(h), T.P. Act",के अथर् के अंतगर्त ;
 within the purview,,"s. 278(2), Companies Act",० क्षेत्रांतर्गत
 within the scope of the agent’s authority,,"s. 237, Indian Contract Act",अभिकर्ता के प्राधिकार के विस्तार के भीतर
@@ -741,8 +741,8 @@ yard,,"s. 7(1)(d), Indian Railways Act",याडर् ;
 yard boy,,,याडर् ब् वॉय
 yard foreman,,,याडर् फोरमैन
 yard gunner,,,याडर् गनर
-yard inspector (production department),,,यार्ड निरीक्षक
-yard inspector (yard shop),,,निरीक्षक
+yard inspector (production department),,,यार्ड निरीक्षक (उत्पादन विभाग)
+yard inspector (yard shop),,,निरीक्षक (यार्ड दुकान)
 yard master,,,याडर् मास् टर
 yard reporter-cum-signaller,,,रिपोर्टर
 yard supervisor,,,यार्ड पर्यवेक्षक

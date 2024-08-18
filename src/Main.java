@@ -52,7 +52,7 @@ public class Main {
             // Write CSV header
             writer.write("English Phrase,Meanings,Acts,Hindi Translation\n");
 
-            Pattern hindiPattern = Pattern.compile("[\\u0900-\\u097F]+[\\s\\u0900-\\u097F]*");
+            Pattern hindiPattern = Pattern.compile("\\(*[\\u0900-\\u097F]+[\\s\\u0900-\\u097F()-,'’]*");
 
             while (matcher.find()) {
                 String englishPhrase = matcher.group(1).trim().replaceAll("\\s+", " ");
