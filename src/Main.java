@@ -42,6 +42,11 @@ public class Main {
         return tika.parseToString(new File(pdfFilePath));
     }
 
+    public static boolean isHindi(char ch) {
+        // Unicode range for Devanagari script (Hindi characters) is from 0x0900 to 0x097F
+        return (ch >= 0x0900 && ch <= 0x097F);
+    }
+
     private static void processContentAndCreateCSV(String content, String csvFilePath, String textFilePath) throws IOException {
         Pattern pattern = Pattern.compile("([A-Za-z\\.\\s0-9()'’,-]+):([A-Za-z0-9\\s;\\.,()'’]*)(\\[*[A-Za-z\\s\\.0-9(),\\-]*\\]*)([^A-Za-z\\[\\]]+)");
         Matcher matcher = pattern.matcher(content);
@@ -51,8 +56,6 @@ public class Main {
             String textFile = Files.readString(Paths.get(textFilePath));
             // Write CSV header
             writer.write("English Phrase,Meanings,Acts,Hindi Translation\n");
-
-            Pattern hindiPattern = Pattern.compile("\\(*[\\u0900-\\u097F]+[\\s\\u0900-\\u097F()-,'’]*");
 
             while (matcher.find()) {
                 String englishPhrase = matcher.group(1).trim().replaceAll("\\s+", " ");
@@ -75,24 +78,43 @@ public class Main {
 
                 if(hindiTranslation.contains("�"))
                 {
-                    int startIndex = textFile.indexOf(englishPhrase+" : ") + englishPhrase.length()+3;
-                    if(startIndex == -1)
+                    int searchStartIndex = textFile.indexOf(englishPhrase+" : ") + englishPhrase.length()+3;
+                    if(searchStartIndex == -1)
                     {
                         System.out.println("Not Found: " + englishPhrase);
                         missingCounter++;
                     }
                     else
                     {
-                        int endIndex =  textFile.indexOf(":", startIndex);
-                        if(endIndex == -1) continue;
-                        String replacement = textFile.substring(startIndex, endIndex);
-
-                        Matcher hindiMatcher = hindiPattern.matcher(replacement);
-                        hindiTranslation = hindiMatcher.find() ? hindiMatcher.group().trim().replaceAll("\\s+", " ") : "";
-                        if (hindiTranslation.isEmpty())
+                        int searchEndIndex =  textFile.indexOf(":", searchStartIndex);
+                        int startIndex = -1, endIndex = -1;
+                        try
                         {
+
+                            for(int i = searchStartIndex; i <= searchEndIndex; ++i)
+                            {
+                                if(isHindi(textFile.charAt(i)))
+                                {
+                                    startIndex = i;
+                                    break;
+                                }
+                            }
+
+                            for(int i = searchEndIndex; i >= startIndex; i--)
+                            {
+                                if(isHindi(textFile.charAt(i)))
+                                {
+                                    endIndex = i;
+                                    break;
+                                }
+                            }
+
+                            if(startIndex != -1)// && endIndex != -1 implied
+                            {
+                                hindiTranslation = textFile.substring(startIndex, endIndex+1).trim().replaceAll("\\s+", " ");
+                            }
+                        } catch (Exception e) {
                             missingCounter++;
-                            continue;
                         }
                     }
                 }
