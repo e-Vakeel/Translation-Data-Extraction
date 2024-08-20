@@ -119,6 +119,29 @@ public class Main {
                     }
                 }
 
+                if (hindiTranslation.contains("�"))
+                {
+                    missingCounter++;
+                    continue;
+                }
+
+                boolean flag = true;
+
+                for(char ch : hindiTranslation.toCharArray())
+                {
+                    if(isHindi(ch))
+                    {
+                        flag = false;
+                        break;
+                    }
+                }
+
+                if(flag)
+                {
+                    missingCounter++;
+                    continue;
+                }
+
                 // Write the CSV line
                 writer.write(String.format("%s,%s,%s,%s\n", englishPhrase, meanings, acts, hindiTranslation));
             }
