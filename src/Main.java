@@ -141,7 +141,7 @@ public class Main {
                     missingCounter++;
                     continue;
                 }
-
+                hindiTranslation = escapeCSV(hindiTranslation);
                 // Write the CSV line
                 writer.write(String.format("%s,%s,%s,%s\n", englishPhrase, meanings, acts, hindiTranslation));
             }
