@@ -63,6 +63,11 @@ public class Main {
                 String acts = matcher.group(3).trim().replace("[", "").replace("]", "").replaceAll("\\s+", " ");
                 String hindiTranslation = matcher.group(4).trim().replaceAll("\\s+", " ");
 
+                if(englishPhrase.indexOf(';') != -1)
+                {
+                    englishPhrase = englishPhrase.substring(0, englishPhrase.indexOf(';'));
+                }
+
                 // Escape commas in the fields
                 englishPhrase = escapeCSV(englishPhrase);
                 meanings = escapeCSV(meanings);
@@ -141,7 +146,24 @@ public class Main {
                     missingCounter++;
                     continue;
                 }
+
+                if(hindiTranslation.indexOf(';') != -1)
+                {
+                    hindiTranslation = hindiTranslation.substring(0, hindiTranslation.indexOf(';'));
+                }
+
+                hindiTranslation.replaceAll("[1-9]\\.", "R");
+                if(hindiTranslation.contains("R"))
+                {
+                    missingCounter++;
+                    continue;
+                }
                 hindiTranslation = escapeCSV(hindiTranslation);
+                if(hindiTranslation.equals("।ह। -हिंदी"))
+                {
+                    missingCounter++;
+                    continue;
+                }
                 // Write the CSV line
                 writer.write(String.format("%s,%s,%s,%s\n", englishPhrase, meanings, acts, hindiTranslation));
             }
