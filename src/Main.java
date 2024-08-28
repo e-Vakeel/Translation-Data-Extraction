@@ -36,6 +36,13 @@ public class Main {
         System.out.println("Missing: " + missingCounter);
     }
 
+    public static boolean containsEnglishCharacter(String str) {
+        // Regular expression to match any English letter (a-zA-Z)
+        Pattern pattern = Pattern.compile("[a-zA-Z]");
+        Matcher matcher = pattern.matcher(str);
+        return matcher.find();
+    }
+
     private static String extractTextFromPDF(String pdfFilePath) throws IOException, TikaException {
         Tika tika = new Tika();
         tika.setMaxStringLength(-1);
@@ -153,7 +160,9 @@ public class Main {
                 }
 
                 hindiTranslation.replaceAll("[1-9]\\.", "R");
-                if(hindiTranslation.contains("R") || hindiTranslation.contains("1.") || hindiTranslation.contains("2.") || hindiTranslation.contains("3."))
+                if(hindiTranslation.contains("R") || hindiTranslation.contains("1.") ||
+                        hindiTranslation.contains("2.") || hindiTranslation.contains("3.") ||
+                        containsEnglishCharacter(hindiTranslation))
                 {
                     missingCounter++;
                     continue;
