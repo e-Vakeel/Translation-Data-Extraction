@@ -153,7 +153,7 @@ public class Main {
                 }
 
                 hindiTranslation.replaceAll("[1-9]\\.", "R");
-                if(hindiTranslation.contains("R"))
+                if(hindiTranslation.contains("R") || hindiTranslation.contains("1.") || hindiTranslation.contains("2.") || hindiTranslation.contains("3."))
                 {
                     missingCounter++;
                     continue;
